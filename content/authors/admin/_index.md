@@ -11,7 +11,7 @@ role: Email firstname dot lastname AT mq.edu.au
 # Organizations/Affiliations
 organizations:
 - name: Macquarie University
-  url: ""
+  url: "https://www.mq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics.
