@@ -10,17 +10,17 @@
 
 [[main]]
   name = "News"
-  url = "#posts"
+  url = "#news"
   weight = 20
 
 [[main]]
   name = "Professional Service"
-  url = "#projects"
+  url = "service/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "publication/"
   weight = 40
 
 [[main]]
@@ -30,7 +30,7 @@
 
 [[main]]
   name = "My Team"
-  url = "#people"
+  url = "team/"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
