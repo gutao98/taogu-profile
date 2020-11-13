@@ -35,7 +35,7 @@
 
 [[main]]
   name = "My Team"
-  url = "#contact"
+  url = "#people"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
