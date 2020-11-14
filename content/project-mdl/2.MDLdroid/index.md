@@ -2,8 +2,6 @@
 title: MDLdroid:Mobile Deep Learning for Personal Mobile Sensing Applications
 summary: Our first version of a novel decentralized mobile deep learning framework to enable resource-aware on-device collaborative learning for personal mobile sensing applications.
 tags:
-- Mobile Deep Learning
-- Embedded AI
 date: "2020-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

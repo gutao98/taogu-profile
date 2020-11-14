@@ -2,7 +2,6 @@
 title: Indoor Positioning using Magnetometer on Smartphone
 summary: In this project, we present an indoor localization system using magnetometer on smartphone.
 tags:
-- LPWANs
 date: "2018-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -14,7 +13,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/7272098?casa_token=oTU-xb5BNMAAAAAA:vJrCBDCoOdjTrgRpBwrGLVUvYRd263U1mLGxpb-AmE-DAFfLV_vWwoJ3r3Uxgvwda6vyzkyY"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/7272098"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=RyPeubdu4Ec&feature=emb_logo&ab_channel=TaoGu"
 

@@ -2,7 +2,6 @@
 title: Reprogramming in Wireless Sensor Networks
 summary: We propose ReLog which consists of a programming language, a compiler, and a virtual machine to support reprogramming in wireless sensor networks.
 tags:
-- Sensor Networks
 date: "2015-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

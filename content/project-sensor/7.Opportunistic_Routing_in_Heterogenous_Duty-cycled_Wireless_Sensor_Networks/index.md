@@ -2,7 +2,6 @@
 title: Opportunistic Routing in Heterogenous Duty-cycled Wireless Sensor Networks
 summary: This paper aims to improve the energy efficiency of LoRa by enabling LoRa nodes to operate in a downclocked 'light sleep' mode for packet reception.
 tags:
-- Sensor Networks
 date: "2014-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

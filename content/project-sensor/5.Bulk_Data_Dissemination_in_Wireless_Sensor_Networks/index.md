@@ -2,7 +2,6 @@
 title: Bulk Data Dissemination in Wireless Sensor Networks
 summary: This project proposes a novel sender impact metric which jointly exploits link quality and spatial link diversity to calculate the gain/cost ratio of the sender candidates.
 tags:
-- Sensor Networks
 date: "2016-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

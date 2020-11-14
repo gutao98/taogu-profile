@@ -2,7 +2,6 @@
 title: Out-of-Band Communication in Wi-Fi for Smartphone Energy Saving
 summary: In this project, we propose a new power-saving strategy for screen-off Wi-Fi communications.
 tags:
-- LPWANs
 date: "2017-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

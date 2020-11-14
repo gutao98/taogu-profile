@@ -2,7 +2,6 @@
 title: Localization in Metro Trains based on Smartphone Sensing
 summary: In this project, we present a novel infrastructure-free localization system to locate mobile users in a metro line.
 tags:
-- LPWANs
 date: "2016-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -14,7 +13,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/9155224"
+url_pdf: "https://ieeexplore.ieee.org/document/6918958?reload=true&arnumber=6918958"
 url_slides: ""
 url_video: ""
 

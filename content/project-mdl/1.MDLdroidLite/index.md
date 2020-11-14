@@ -2,8 +2,6 @@
 title: MDLdroidLite:Enabling Resource-Efficient Deep Neural Networks on Mobile Devices
 summary: This project presents MDLdroidLite, our latest on-device deep learning framework to support privacy-preserving personal mobile sensing applications.
 tags:
-- Mobile Deep Learning
-- Embedded AI
 date: "2020-11-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

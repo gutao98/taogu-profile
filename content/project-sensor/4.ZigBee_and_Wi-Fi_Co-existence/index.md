@@ -2,7 +2,6 @@
 title: 	ZigBee and Wi-Fi Co-existence
 summary: In this work, we design a simple yet effective error recovery code that uses XOR code to minimize delay and uses RSSI-hinted approach to detect in-packet corruptions without CRC.
 tags:
-- LPWANs
 date: "2017-02-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,6 @@
 title: Floor Localization based on Mobile Phone Sensing
 summary: We present FTrack a novel floor localization system leveraging on smartphone's accelerometer only, and it does not require any prior knowledge of a building such as floor height.
 tags:
-- LPWANs
 date: "2012-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

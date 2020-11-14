@@ -2,7 +2,6 @@
 title: Parallel Decoding in LoRaWANs
 summary: This project presents a novel communication paradigm that enables parallel demodulation of colliding LoRa transmissions.
 tags:
-- LPWANs
 date: "2019-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
