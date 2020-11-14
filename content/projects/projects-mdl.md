@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Mobile Deep Learning"
+    tag = "Mobile Deep Learning"
+
+  [[content.filter_button]]
+    name = "Embedded AI"
+    tag = "Embedded AI"
   
   [[content.filter_button]]
     name = "Other"
@@ -42,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

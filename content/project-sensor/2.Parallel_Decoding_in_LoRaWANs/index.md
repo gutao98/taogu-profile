@@ -14,7 +14,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www4.comp.polyu.edu.hk/~csyqzheng/papers/FTrack_Sensys19.pdf"
 url_slides: ""
 url_video: ""
 

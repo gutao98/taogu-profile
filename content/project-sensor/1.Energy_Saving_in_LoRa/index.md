@@ -1,5 +1,5 @@
 ---
-title: Energy Saving  in LoRa
+title: Energy Saving in LoRa
 summary: This paper aims to improve the energy efficiency of LoRa by enabling LoRa nodes to operate in a downclocked 'light sleep' mode for packet reception.
 tags:
 - LPWANs
