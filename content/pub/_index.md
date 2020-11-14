@@ -18,6 +18,7 @@ header:
 
 **Refereed Journal Papers**
 <font size=2>
+
 1. Dan Xu, Xiaojiang Chen, Nannan Zhang, Nana Ding, Jing Zhang, Dingyi Fang, and Tao Gu. Cantor: Improving Goodput in LoRa Concurrent Transmission, IEEE Internet of Things Journal (IoT-J), 2020.
 1. Xianjin Xia, Yuanqing Zheng, and Tao Gu. FTrack: Parallel Decoding for LoRa Transmissions, IEEE/ACM Transactions on Networking (ToN), 2020.
 1. Zhiwei Zhao, Geyong Min, Wei Dong, Xue Liu, Weifeng Gao, Minghang Yang, and Tao Gu. Exploiting Link Diversity for Performance-Aware and Repeatable Simulation in Low-power Wireless Networks, IEEE/ACM Transactions on Networking (ToN), 2020.
