@@ -10,17 +10,17 @@
 
 [[main]]
   name = "News"
-  url = "#posts"
+  url = "#news"
   weight = 20
 
 [[main]]
   name = "Professional Service"
-  url = "#projects"
+  url = "service/"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "pub/"
   weight = 40
 
 [[main]]
@@ -30,8 +30,13 @@
 
 [[main]]
   name = "My Team"
-  url = "#contact"
+  url = "team/"
   weight = 60
+
+[[main]]
+  name = "Hiring"
+  url = "#we_hiring"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
