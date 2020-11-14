@@ -16,10 +16,11 @@ header:
 
 
 **Conference Steering Committee**
+
 - MobiQuitous, Dec 2011 ~ 2019
 
-
 **Conference Organizer**
+
 - IoTDI 2021, TPC Co-Chair
 - MobiQuitous 2017, General Chair
 - ICNP 2016, Travel Grants Chair
@@ -32,7 +33,9 @@ header:
 - MobiQuitous 2011, TPC Chair
 - UbiComp 2009, Publication Co-Chair
 
+
 **Conference TPC Membership**
+
 - IoTDI 2020
 - INFOCOM 2011-2017, 2019-2021
 - ICNP 2016
@@ -49,7 +52,9 @@ header:
 - UIC 2007, 2010
 - SmartComp 2016
 
+
 **Journal Editorial Board Membership**
+
 - IEEE Internet of Things Journal (IoT-J), Associate Editor, 2018 ~ present.
 - Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Associate Editor, 2016 ~ present
 - IEEE Transactions on Mobile Computing (TMC), Associate Editor, 2016 ~ present
@@ -58,3 +63,5 @@ header:
 - Elsevier Journal of Pervasive and Mobile Computing (PMC), Associate Editor, 2011 ~ 2017
 - ACM/Springer Mobile Networks & Applications (MONET) Special Issue on “Mobility, Context-Awareness and Internet of Things”, Guest Editor, Volume 18, Issue 3, 2013.
 - ACM/Springer Mobile Networks & Applications (MONET) Special Issue on “Advances in Mobile Networking: Wearable Systems and Novel Management Solutions”, Guest Editor, December 2014.
+
+

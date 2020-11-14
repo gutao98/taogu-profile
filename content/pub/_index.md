@@ -17,6 +17,7 @@ header:
 
 
 **Refereed Journal Papers**
+
 <font size=2>
 
 1. Dan Xu, Xiaojiang Chen, Nannan Zhang, Nana Ding, Jing Zhang, Dingyi Fang, and Tao Gu. Cantor: Improving Goodput in LoRa Concurrent Transmission, IEEE Internet of Things Journal (IoT-J), 2020.
