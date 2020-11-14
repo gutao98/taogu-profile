@@ -93,3 +93,9 @@ I am currently a Professor in Department of Computing at Macquarie University, S
 
 The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics. Please visit the Project page for the specific research we are doing. We usually publish our work in journals and conferences, including ACM/IEEE ToN, IEEE JSAC, IEEE TMC, SenSys, UbiComp, IPSN, and INFOCOM.
 
+
+👉 [**LPWANs and Sensor Networks**]({{< ref "../../projects/#projects-sensor" >}}) &nbsp; &nbsp; &nbsp;
+👉 [**Embedded AI and Mobile Deep Learning**]({{< ref "../../projects/#projects-mdl" >}})  &nbsp;
+👉 [**Indoor Positioning**]({{< ref "../../projects/#projects-indoor" >}})  &nbsp; &nbsp; &nbsp;
+👉 [**Activity and Gesture Detection**]({{< ref "../../projects/#projects-gesture" >}})  &nbsp; &nbsp; &nbsp;
+👉 [**Data Analytics**]({{< ref "../../projects/#projects-data" >}})
