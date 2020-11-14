@@ -70,7 +70,7 @@ subtitle = ""
 +++
 
 
-<font color=Blue>**We are hiring PhD students and Postdocs (Multiple openings!)**</font>
+<font size=6, color=Blue>**We are hiring PhD students and Postdocs (Multiple openings!)**</font>
 
 Our IoT research team is recruiting several PhD students and Postdocs for two Australian Research Council (ARC) Discovery Projects. You will work in advanced wireless sensing and data analytics technologies for detecting fine-grained gestures/activities, and MIMO and advanced signal processing technologies for achieving decimeter-level indoor positioning. 
 

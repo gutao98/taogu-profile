@@ -16,25 +16,28 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics.
 
-interests:
-- Internet of Things
-- Ubiquitous Computing
-- Mobile Computing
-- Embedded AI
-- Wireless Sensor Networks
-- Big Data Analytics
+# interests:
+# - Internet of Things
+# - Ubiquitous Computing
+# - Mobile Computing
+# - Embedded AI
+# - Wireless Sensor Networks
+# - Big Data Analytics
 
-education:
-  courses:
-  - course: Ph.D. in Computer Science
-    institution: National University of Singapore
-    year: 2005
-  - course: M.Sc. in Electrical and Electronic Engineering
-    institution: Nanyang Technological University
-    year: 2001
-  - course: B.Eng. in Automatic Control
-    institution: Huazhong University of Science and Technology
-    year: 1990
+
+
+# education:
+  # courses:
+  # - course: Ph.D. in Computer Science
+  # institution: National University of Singapore
+  # year: 2005
+  # - course: M.Sc. in Electrical and Electronic Engineering
+  # institution: Nanyang Technological University
+  # year: 2001
+  # - course: B.Eng. in Automatic Control
+  # institution: Huazhong University of Science and 
+  # Technology
+  #  year: 1990
 
 
 # Social/Academic Networking
@@ -53,15 +56,28 @@ social:
   icon_pack: ai
   link: https://dblp.org/pid/65/4916.html
   
-  
-  # - icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/GeorgeCushen
-  
-  
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?hl=en&user=YfeWvwYAAAAJ
+  
+  
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TaoGu13
+  
+  
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1350-6639
+  
+  
+- icon: researchgate
+  icon_pack: fab
+  link: https://twitter.com/TaoGu13
+  
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tao-gu-15405716/
   
   
   # - icon: github
@@ -94,8 +110,4 @@ I am currently a Professor in Department of Computing at Macquarie University, S
 The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics. Please visit the Project page for the specific research we are doing. We usually publish our work in journals and conferences, including ACM/IEEE ToN, IEEE JSAC, IEEE TMC, SenSys, UbiComp, IPSN, and INFOCOM.
 
 
-👉 [**LPWANs and Sensor Networks**]({{< ref "../../projects/#projects-sensor" >}}) &nbsp; &nbsp; &nbsp;
-👉 [**Embedded AI and Mobile Deep Learning**]({{< ref "../../projects/#projects-mdl" >}})  &nbsp;
-👉 [**Indoor Positioning**]({{< ref "../../projects/#projects-indoor" >}})  &nbsp; &nbsp; &nbsp;
-👉 [**Activity and Gesture Detection**]({{< ref "../../projects/#projects-gesture" >}})  &nbsp; &nbsp; &nbsp;
-👉 [**Data Analytics**]({{< ref "../../projects/#projects-data" >}})
+

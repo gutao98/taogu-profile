@@ -56,7 +56,7 @@ header:
 **Journal Editorial Board Membership**
 
 - IEEE Internet of Things Journal (IoT-J), Associate Editor, 2018 ~ present.
-- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Associate Editor, 2016 ~ present
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Associate Editor, 2016-2020, Editor, 2020-present.
 - IEEE Transactions on Mobile Computing (TMC), Associate Editor, 2016 ~ present
 - Wireless Communications and Mobile Computing (WCMC), Associate Editor, 2016 ~ 2018
 - Elsevier Journal of Network and Computer Applications (JNCA), Associate Editor, 2013 ~ 2016
