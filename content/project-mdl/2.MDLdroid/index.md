@@ -15,7 +15,7 @@ links:
 url_code: ""
 url_pdf: "https://arxiv.org/abs/2002.02897"
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=Yq6ngk91UPk&ab_channel=TaoGu"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

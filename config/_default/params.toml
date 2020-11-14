@@ -133,7 +133,7 @@ twitter = ""
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = ""
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = ""
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
 address_format = "en-us"
