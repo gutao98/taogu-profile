@@ -268,10 +268,10 @@ plugins_js  = []
 ############################
 [marketing]
   # Yu
-  google_analytics = "UA-183018984-1"
+  # google_analytics = "UA-183018984-1"
 
   # Tao
-  # google_analytics = "UA-183025472-1"
+  google_analytics = "UA-183025472-1"
   google_tag_manager = ""
 
 ############################
