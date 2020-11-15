@@ -74,7 +74,7 @@ social:
   
 - icon: researchgate
   icon_pack: fab
-  link: https://twitter.com/TaoGu13
+  link: https://www.researchgate.net/profile/Tao_Gu12
   
 - icon: linkedin
   icon_pack: fab
