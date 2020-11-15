@@ -29,13 +29,13 @@
   weight = 50
 
 [[main]]
-  name = "LPWANs and Sensor Networks"
+  name = "LPWANs"
   url = "projects/#projects-sensor"
   parent = "Projects"
   weight = 1
 
 [[main]]
-  name = "Embedded AI and Mobile Deep Learning"
+  name = "Mobile Deep Learning"
   url = "projects/#projects-mdl"
   parent = "Projects"
   weight = 2
@@ -53,7 +53,7 @@
   weight = 4
 
 [[main]]
-  name = "Data Analytics"
+  name = "Sensor Data Analytics"
   url = "projects/#projects-data"
   parent = "Projects"
   weight = 5
