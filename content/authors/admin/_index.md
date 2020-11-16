@@ -6,7 +6,7 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: Email. firstname dot lastname AT mq.edu.au <br/> Phone Number. +61-2-9850-4357 <br/>  Address. Room 244, 17 Wally's Walk, North Ryde, NSW, 2109, Australia
+role: "Email: firstname dot lastname AT mq.edu.au <br/> Phone Number: +61-2-9850-4357 <br/>Address:   Room 244, 17 Wally's Walk, North Ryde, NSW, 2109, Australia"
 
 
 # Organizations/Affiliations
@@ -106,29 +106,30 @@ user_groups:
 - Visitors
 ---
 
+
 I am currently a Professor in Department of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney. I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Electrical and Electronic Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). I am currently serving as an Editor of [*Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*](https://dl.acm.org/journal/imwut), an Associate Editor of [*IEEE Transactions on Mobile Computing (TMC)*](https://www.computer.org/csdl/journal/tm) and [*IEEE Internet of Things Journal (IoT-J)*](https://ieee-iotj.org/). 
 
-The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics. Please visit the Project page for the specific research we are doing. We usually publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
 
 # On-going Projects
 
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
-&nbsp; [**LPWANs**]({{< ref "../../projects/#projects-sensor" >}}) 
+&nbsp; [**LPWANs**](projects/#projects-sensor) 
 
-<img align="left" width="18" height="18" src="../../icon/ai.png">
+<img align="left" width="23" height="23" src="../../icon/ai.png">
 
-&nbsp; [**Mobile Deep Learning**]({{< ref "../../projects/#projects-mdl" >}})
+&nbsp;  [**Mobile Deep Learning**](projects/#projects-mdl)
 
 <img align="left" width="23" height="23" src="../../icon/location.png">
 
-&nbsp; [**Indoor Positioning**]({{< ref "../../projects/#projects-indoor" >}})
+&nbsp; [**Indoor Positioning**](projects/#projects-indoor)
 
 <img align="left" width="23" height="23" src="../../icon/hand.png">
 
-&nbsp; [**Activity and Gesture Detection**]({{< ref "../../projects/#projects-gesture" >}})
+&nbsp; [**Activity and Gesture Detection**](projects/#projects-gesture)
 
 <img align="left" width="23" height="23" src="../../icon/data.png">
 
-&nbsp; [**Sensor Data Analytics**]({{< ref "../../projects/#projects-data" >}})
+&nbsp; [**Sensor Data Analytics**](projects/#projects-data)

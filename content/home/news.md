@@ -67,22 +67,37 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ 
+ 
 +++
 
 
-- **11/2020** We have two papers accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin** and **Zhiwei**!
-- **09/2020** Several month’s lockdown in Melbourne can really drive people mad, but nothing could encourage people better than sharing good news. Congratulation to **Yu** for his **SenSys 2020** paper! I believe this is the world-first on-device deep learning framework with both training and inference that is fully enabled on commercial smartphones. 
-- **06/2020** I was invited to serve as the **TPC Chair of IoTDI 2021**. 
-- **05/2020** I was appointed as an Editor of **IMWUT**. 
-- **02/2020** We have two papers accepted by **IPSN 2020**. Congratulations to **Yu** and **Yuxiang**! 
-- **12/2019** We have an **INFOCOM 2020** paper accepted. Congratulations to **Xianjin**!
-- **09/2019** We will have two PhD students and two visiting overseas students joining our team. Welcome!
-- **07/2019** Our paper on Lora parallel decoding will appear in **SenSys 2019**. Congratulations to **Xianjin**!
-- **04/2019** One paper is accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin**!
-- **01/2019** My **ARC DP** grant application on decimetre-level indoor positioning which has a total funding amount of AUD280,000 is successful.
-- **11/2018** Two papers are accepted by **TMC**.
-- **10/2018** We have three papers in **UbiComp 2018**. Congratulations to **Yu**, **Liang**, and **Tianben**!
-- **04/2018** We have a paper accepted by **INFOCOM 2018**. Congratulations to **Zhiwei**!
+**11/2020:** We have two papers accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin** and **Zhiwei**!
+
+**09/2020:** Several month’s lockdown in Melbourne can really drive people mad, but nothing could encourage people better than sharing good news. Congratulation to **Yu** for his **SenSys 2020** paper! I believe this is the world-first on-device deep learning framework with both training and inference that is fully enabled on commercial smartphones. 
+
+**06/2020:** I was invited to serve as the **TPC Chair of IoTDI 2021**. 
+
+**05/2020:** I was appointed as an Editor of **IMWUT**. 
+
+**02/2020:** We have two papers accepted by **IPSN 2020**. Congratulations to **Yu** and **Yuxiang**! 
+
+**12/2019:** We have an **INFOCOM 2020** paper accepted. Congratulations to **Xianjin**!
+
+**09/2019:** We will have two PhD students and two visiting overseas students joining our team. Welcome!
+
+**07/2019:** Our paper on Lora parallel decoding will appear in **SenSys 2019**. Congratulations to **Xianjin**!
+
+**04/2019:** One paper is accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin**!
+
+**01/2019:** My **ARC DP** grant application on decimetre-level indoor positioning which has a total funding amount of AUD280,000 is successful.
+
+**11/2018:** Two papers are accepted by **TMC**.
+
+**10/2018:** We have three papers in **UbiComp 2018**. Congratulations to **Yu**, **Liang**, and **Tianben**!
+
+**04/2018:** We have a paper accepted by **INFOCOM 2018**. Congratulations to **Zhiwei**!
 
 
 
