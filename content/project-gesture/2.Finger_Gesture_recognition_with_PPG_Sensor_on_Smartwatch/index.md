@@ -13,7 +13,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "https://dl.acm.org/doi/10.1145/3191788"
+url_pdf: "pub/paper/Paper_1_Ubicomp_2018.pdf"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=Yq6ngk91UPk&feature=emb_logo&ab_channel=TaoGu"
 

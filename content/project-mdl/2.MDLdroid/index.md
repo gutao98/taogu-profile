@@ -13,7 +13,7 @@ image:
 
 links:
 url_code: ""
-url_pdf: "https://arxiv.org/abs/2002.02897"
+url_pdf: "pub/paper/Paper_2_IPSN_2020.pdf"
 url_slides: ""
 url_video: ""
 
