@@ -73,6 +73,8 @@ subtitle = ""
 +++
 
 
+**12/2020:** We have a paper accepted by **INFOCOM 2021**. Congratulations to **Jiuwu**!
+
 **11/2020:** We have two papers accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin** and **Zhiwei**!
 
 **09/2020:** Several month’s lockdown in Melbourne can really drive people mad, but nothing could encourage people better than sharing good news. Congratulation to **Yu** for his **SenSys 2020** paper! I believe this is the world-first on-device deep learning framework with both training and inference that is fully enabled on commercial smartphones. 
