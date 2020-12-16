@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = "LPWANs"
+  name = "LPWAN"
   url = "projects/#projects-sensor"
   parent = "Projects"
   weight = 1

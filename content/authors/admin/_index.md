@@ -116,7 +116,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
-&nbsp; [**LPWANs**](projects/#projects-sensor) 
+&nbsp; [**LPWAN**](projects/#projects-sensor) 
 
 <img align="left" width="23" height="23" src="../../icon/ai.png">
 
