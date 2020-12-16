@@ -139,7 +139,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 # Selected Publications 
 
-<font size=6> **Internet of Things:**</font>
+<font size=5> **LoRaWAN:**</font>
 
 
 [**\[ToN'20\]**](https://dl.acm.org/journal/ton)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.
@@ -155,7 +155,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=6>  **Mobile Deep Learning:**</font>
+<font size=5>  **Mobile Deep Learning:**</font>
 
 [**\[SenSys'20\]**](http://sensys.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
 
@@ -167,7 +167,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=6>**Wireless & Sensing:**</font>
+<font size=5>**Wireless & Sensing:**</font>
 
 
 [**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.
@@ -186,7 +186,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=6>**Sensor Data Analytics:**</font>
+<font size=5>**Sensor Data Analytics:**</font>
 
 [**\[IoT-J'18\]**](https://ieee-iotj.org/) Wei Shao, Flora Salim, Tao Gu, Thanh Dinh, and Jeffrey Chan. [Travelling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data](pub/paper/Travelling.pdf), IEEE Internet of Things Journal (IoT-J), Vol. 5, No. 2, pp. 802-810, April 2018.
 
