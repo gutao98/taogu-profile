@@ -142,7 +142,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=5>**LoRaWAN:**</font>
+### **LoRaWAN:**
 
 
 
@@ -162,7 +162,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=5>**Mobile Deep Learning:**</font>
+### **Mobile Deep Learning:**
 
 
 
@@ -180,7 +180,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=5>**Wireless & Sensing:**</font>
+### **Wireless & Sensing:**
 
 
 
@@ -204,7 +204,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<font size=5>**Sensor Data Analytics:**</font>
+### **Sensor Data Analytics:**
 
 
 
