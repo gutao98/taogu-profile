@@ -16,7 +16,7 @@ header:
 
 
 
-**Refereed Journal Papers**
+<font size=5> **Refereed Journal Papers** </font>
 
 <font size=2>
 
@@ -90,7 +90,7 @@ header:
 
 
 
-**Refereed Conference Paper**
+<font size=5> **Refereed Conference Paper** </font>
 
 <font size=2>
 

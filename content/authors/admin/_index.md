@@ -133,3 +133,73 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 <img align="left" width="23" height="23" src="../../icon/data.png">
 
 &nbsp; [**Sensor Data Analytics**](projects/#projects-data)
+
+
+
+
+# Selected Publications [(Full List)](pub/)
+
+<font color=Blue> **Internet of Things:**</font>
+
+
+[**\[ToN'20\]**](https://dl.acm.org/journal/ton)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.
+
+
+[**\[INFOCOM'20\]**](https://infocom2020.ieee-infocom.org/)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [LiteNap: Downclocking LoRa Reception](pub/paper/LiteNap.pdf), in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020.
+
+
+[**\[IPSN'20\]**](https://ipsn.acm.org/2020/) Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. [SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images](pub/paper/SateLoc.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.
+
+[**\[SenSys'19\]**](http://sensys.acm.org/2019/) Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack_sensys.pdf), in Proc. of the 17th ACM Conference on Embedded Networked Sensor Systems (SenSys 2019), New York, November 10-13, 2019.
+
+
+
+
+<font color=Blue>  **Mobile Deep Learning:**</font>
+
+[**\[SenSys'20\]**](http://sensys.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
+
+
+[**\[IPSN'20\]**](https://ipsn.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/Paper_2_IPSN_2020.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. 
+
+
+[**\[UbiComp'18\]**](http://www.ubicomp.org/ubicomp2018/) Xiang Zhang, Lina Yao, Salil Kanhere, Yunhao Liu, Tao Gu, and Kaixuan Chen. [MindID: Person Identification from Brain Waves through Attention-based Recurrent Neural Network](pub/paper/MindID.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Vol. 2, No. 3, Article No. 149, September 2018.
+
+
+
+<font color=Blue>**Wireless & Sensing:**</font>
+
+
+[**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.
+
+
+[**\[TMC'19\]**](https://www.computer.org/csdl/journal/tm) Yao Wang, Wandong Cai, Tao Gu, and Wei Shao. [Your Eyes Reveal Your Secrets: An Eye Movement Based Password Inference on Smartphone](pub/paper/Eyes.pdf), IEEE Transactions on Mobile Computing (TMC), 2019.
+
+
+[**\[ToN'19\]**](https://dl.acm.org/journal/ton) Xianjin Xia, Shining Li, Yu Zhang, Bingqi Li, Yuanqing Zheng, and Tao Gu. [Enabling Out-of-band Coordination of Wi-Fi Communications on Smartphones](pub/paper/Coordination.pdf), IEEE/ACM Transactions on Networking (ToN), Vol. 27, No. 2, pp. 518-531, April 2019.
+
+
+[**\[UbiComp'18\]**](http://www.ubicomp.org/ubicomp2018/) Yu Zhang, Tao Gu, Chu Luo, Vassilis Kostakos, and Aruna Seneviratne. [FinDroidHR: Smartwatch Gesture Input with Optical Heartrate Monitor](pub/paper/Paper_1_Ubicomp_2018.pdf), in Proc. of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2018), Singapore, October 9-11, 2018. 
+
+
+[**\[INFOCOM'18\]**](https://infocom2018.ieee-infocom.org/) Zhiwei Zhao, Wei Dong, Geyong Min, Gonglong Chen, Tao Gu, and Jiajun Bu. [Towards Repeatable Wireless Network Simulation Using Performance Aware Markov Model](pub/paper/Repeatable.pdf), in Proc. of IEEE INFOCOM 2018, Honolulu, USA, April 15-19, 2018.
+
+
+
+<font color=Blue>**Sensor Data Analytics:**</font>
+
+[**\[IoT-J'18\]**](https://ieee-iotj.org/) Wei Shao, Flora Salim, Tao Gu, Thanh Dinh, and Jeffrey Chan. [Travelling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data](pub/paper/Travelling.pdf), IEEE Internet of Things Journal (IoT-J), Vol. 5, No. 2, pp. 802-810, April 2018.
+
+
+[**\[UbiComp'16\]**](http://www.ubicomp.org/ubicomp2016/) Lina Yao, Feiping Nie, Quan Z. Sheng, Tao Gu, and Sen Wang. [Learning from Less for Better: Semi-Supervised Activity Recognition via Shared Structure Discovery](pub/paper/Semi.pdf), In Proc. of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2016), Heidelberg, Germany, September 12-16, 2016.
+
+
+[**\[UbiComp'15\]**](http://www.ubicomp.org/ubicomp2015/) Zhiwen Yu, Rong Du, Bin Guo, Tao Gu, Zhu Wang, and Daqing Zhang. [Who Should I Invite for My Party? Combining User Preference and Influence Maximization for Social Events](pub/paper/Maximization.pdf), Notes, In Proc. of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2015), Osaka, Japan, September 7-11, 2015.
+
+
+
+[**\[TKDE'11\]**](https://www.computer.org/csdl/journal/tk) Tao Gu, Liang Wang, Zhanqing Wu, Xianping Tao, and Jian Lu. [A Pattern Mining Approach to Sensor-based Human Activity Recognition](pub/paper/Mining.pdf), IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, No. 9, pp. 1359-1372, September 2011.
+
+
+
+
