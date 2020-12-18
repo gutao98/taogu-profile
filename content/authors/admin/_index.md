@@ -219,7 +219,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-[**\[TKDE'11\]**](https://www.computer.org/csdl/journal/tk) Tao Gu, Liang Wang, Zhanqing Wu, Xianping Tao, and Jian Lu. [A Pattern Mining Approach to Sensor-based Human Activity Recognition](pub/paper/Mining.pdf), IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, No. 9, pp. 1359-1372, September 2011.
+<!--[**\[TKDE'11\]**](https://www.computer.org/csdl/journal/tk) Tao Gu, Liang Wang, Zhanqing Wu, Xianping Tao, and Jian Lu. [A Pattern Mining Approach to Sensor-based Human Activity Recognition](pub/paper/Mining.pdf), IEEE Transactions on Knowledge and Data Engineering (TKDE), Vol. 23, No. 9, pp. 1359-1372, September 2011.-->
 
 
 
