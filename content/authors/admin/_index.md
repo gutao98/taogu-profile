@@ -6,7 +6,7 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: "Email: firstname dot lastname AT mq.edu.au <br/> Phone Number: +61-2-9850-4357 <br/>Address:   Room 267, 17 Wally's Walk, North Ryde, NSW, 2109, Australia"
+role: "Email: firstname dot lastname AT mq.edu.au <br/> Phone Number: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW, 2109, Australia"
 
 
 # Organizations/Affiliations
