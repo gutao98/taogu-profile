@@ -72,7 +72,7 @@ subtitle = ""
 
 # <font color=Blue> We are hiring Postdocs and PhD students! </font>
 
-The IoT research team in the Department of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our team has a research focus in the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
+The IoT research team in the Department of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
 
 
 Postdoc requirements:
@@ -87,7 +87,8 @@ PhD student requirements:
 - Self-motivated and have strong passion in conducting high-quality research.
 
 
-We offer full PhD scholarship and competitive salaries and provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly published in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au). We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. 
+We offer full PhD scholarship and competitive salaries and provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au). 
+<!--We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. -->
 
 
 
