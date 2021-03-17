@@ -165,6 +165,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 ### **Mobile Deep Learning:**
 
 
+[**\[TMC'21\]**](https://www.computer.org/csdl/journal/tm) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](paper/mdl_tmc.pdf), IEEE Transactions on Mobile Computing (TMC), 2021. 
 
 
 [**\[SenSys'20\]**](http://sensys.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
