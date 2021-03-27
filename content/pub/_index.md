@@ -99,7 +99,7 @@ header:
 <font size=2>
 
 
-
+1. Wei Wang, Dingsheng He, Tao Gu, Wan Jia, Haiyan Liu, Xiaoyang Sun, Fuping Wu, and Xiaojiang Chen. PRComm: Anti-interference Cross-Technology Communication Based on Pseudo-random Sequence, in Proc. of the 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2021), Nashville, Tennessee, USA, 18-21 May 2021.
 1. Jiuwu Zhang, Xiulong Liu, Tao Gu, Xinyu Tong, Sheng Chen, and Keqiu Li. SILoc: A Speed Inconsistency-Immune Approach to Mobile RFID Robot Localization, in Proc. of IEEE INFOCOM 2021, May 10-13, 2021.
 2. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. [**PDF**](paper/Paper_3_SenSys_2020.pdf)
 3. Xianjin Xia, Yuanqing Zheng, and Tao Gu. LiteNap: Downclocking LoRa Reception, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. [**PDF**](paper/LiteNap-%20Downclocking%20LoRa%20Reception.pdf)
