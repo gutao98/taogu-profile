@@ -20,7 +20,7 @@ header:
 
 <font size=2>
 
-
+1. Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, ACM Transactions on Sensor Networks (TOSN), 2021.
 1. Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices, IEEE Internet of Things Journal (IoT-J), 2021. 
 1. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices, IEEE Transactions on Mobile Computing (TMC), 2021. [**PDF**](paper/mdl_tmc.pdf) 
 1. Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021.  
