@@ -114,6 +114,10 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 # On-going Projects
 
+<img align="left" width="23" height="23" src="../../icon/crc.png">
+
+&nbsp; [**Critical Supply Chain CRC**](https://www.linkedin.com/company/critical-supply-chain-crc-bid/) 
+
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
 &nbsp; [**LPWAN**](projects/#projects-sensor) 
