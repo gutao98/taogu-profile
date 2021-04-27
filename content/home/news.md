@@ -72,6 +72,9 @@ subtitle = ""
  
 +++
 
+**04/2021:** **Critical Supply Chain CRC** NSW Workshop will be held at Macquarie University on 5 May 2021.
+
+**03/2021:** **Critical Supply Chain CRC** bid is now officially started.
 
 **12/2020:** We have a paper accepted by **INFOCOM 2021**. Congratulations to **Jiuwu**!
 
