@@ -73,9 +73,9 @@ subtitle = ""
 +++
 
 
-**05/2021:** **Critical Supply Chain CRC** Melbourne Workshop will be hold on 25 May 2021.
+**05/2021:** **Critical Supply Chain CRC** Melbourne Workshop will be held on 25 May 2021.
 
-**04/2021:** **Critical Supply Chain CRC** Sydney Workshop will be hold on 7 May 2021.
+**04/2021:** **Critical Supply Chain CRC** Sydney Workshop will be held on 7 May 2021.
 
 <!--**04/2021:** **Critical Supply Chain CRC** NSW Workshop will be held at Macquarie University on 5 May 2021.-->
 
