@@ -72,6 +72,7 @@ subtitle = ""
  
 +++
 
+**06/2021:** We have two **MobiCom 2021** papers accepted! One paper is about concurrent transmission in LoRaWANs, and the other one is about combining RF sensing and computer vision for gesture recognition.
 
 **05/2021:** **Critical Supply Chain CRC** Melbourne Workshop will be held on 25 May 2021.
 
