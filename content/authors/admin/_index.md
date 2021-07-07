@@ -149,6 +149,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 ### **LoRaWAN:**
 
 
+[**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 
 
 [**\[ToN'20\]**](https://dl.acm.org/journal/ton)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.
@@ -187,6 +188,8 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 ### **Wireless & Sensing:**
 
+
+[**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 
 
 [**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.
