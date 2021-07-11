@@ -20,8 +20,8 @@ header:
 
 <font size=2>
 
-1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
-1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
+<!--1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
+<!--1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
 1. Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, ACM Transactions on Sensor Networks (TOSN), 2021.
 1. Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices, IEEE Internet of Things Journal (IoT-J), 2021. 
 1. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices, IEEE Transactions on Mobile Computing (TMC), 2021. [**PDF**](paper/mdl_tmc.pdf) 
