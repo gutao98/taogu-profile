@@ -169,6 +169,8 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 ### **Mobile Deep Learning:**
 
+[**\[ToN'21\]**](https://dl.acm.org/journal/ton)  Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/mdldroid_ton.pdf), IEEE/ACM Transactions on Networking (ToN), 2021. 
+
 
 [**\[TMC'21\]**](https://www.computer.org/csdl/journal/tm) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/mdl_tmc.pdf), IEEE Transactions on Mobile Computing (TMC), 2021. 
 

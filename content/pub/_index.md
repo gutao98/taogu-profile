@@ -20,8 +20,9 @@ header:
 
 <font size=2>
 
-<!--1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
-<!--1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
+
+1. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IEEE/ACM Transactions on Networking (ToN), 2021. [**PDF**](paper/mdldroid_ton.pdf) 
+1. Xianjin Xia, Yuanqing Zheng, and Tao Gu. LiteNap: Downclocking LoRa Reception, IEEE/ACM Transactions on Networking (ToN), 2021.
 1. Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, ACM Transactions on Sensor Networks (TOSN), 2021.
 1. Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices, IEEE Internet of Things Journal (IoT-J), 2021. 
 1. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices, IEEE Transactions on Mobile Computing (TMC), 2021. [**PDF**](paper/mdl_tmc.pdf) 
@@ -100,7 +101,8 @@ header:
 
 <font size=2>
 
-
+<!--1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
+<!--1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
 1. Wei Wang, Dingsheng He, Tao Gu, Wan Jia, Haiyan Liu, Xiaoyang Sun, Fuping Wu, and Xiaojiang Chen. PRComm: Anti-interference Cross-Technology Communication Based on Pseudo-random Sequence, in Proc. of the 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2021), Nashville, Tennessee, USA, 18-21 May 2021.
 1. Jiuwu Zhang, Xiulong Liu, Tao Gu, Xinyu Tong, Sheng Chen, and Keqiu Li. SILoc: A Speed Inconsistency-Immune Approach to Mobile RFID Robot Localization, in Proc. of IEEE INFOCOM 2021, May 10-13, 2021.
 2. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. [**PDF**](paper/Paper_3_SenSys_2020.pdf)
