@@ -21,6 +21,7 @@ header:
 <font size=2>
 
 
+1. Landu Jiang, Wen Xie, Dian Zhang, Tao Gu. Smart Diagnosis: Deep Learning Boosted Driver Inattention Detection and Abnormal Driving Prediction, IEEE Internet of Things Journal (IoT-J), 2021. [**PDF**](paper/diagnosis_iot.pdf) 
 1. Yu Zhang, Tao Gu, and Xi Zhang. MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing, IEEE/ACM Transactions on Networking (ToN), 2021. [**PDF**](paper/mdldroid_ton.pdf) 
 1. Xianjin Xia, Yuanqing Zheng, and Tao Gu. LiteNap: Downclocking LoRa Reception, IEEE/ACM Transactions on Networking (ToN), 2021.
 1. Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images, ACM Transactions on Sensor Networks (TOSN), 2021.
