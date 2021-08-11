@@ -102,7 +102,7 @@ header:
 
 <font size=2>
 
-<!--1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.-->
+1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 1. Wei Wang, Dingsheng He, Tao Gu, Wan Jia, Haiyan Liu, Xiaoyang Sun, Fuping Wu, and Xiaojiang Chen. PRComm: Anti-interference Cross-Technology Communication Based on Pseudo-random Sequence, in Proc. of the 20th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2021), Nashville, Tennessee, USA, 18-21 May 2021.
 1. Jiuwu Zhang, Xiulong Liu, Tao Gu, Xinyu Tong, Sheng Chen, and Keqiu Li. SILoc: A Speed Inconsistency-Immune Approach to Mobile RFID Robot Localization, in Proc. of IEEE INFOCOM 2021, May 10-13, 2021.
