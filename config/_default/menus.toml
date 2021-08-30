@@ -29,13 +29,13 @@
   weight = 50
 
 [[main]]
-  name = "LPWAN"
+  name = "LPWANs"
   url = "projects/#projects-sensor"
   parent = "Projects"
   weight = 1
 
 [[main]]
-  name = "Mobile Deep Learning"
+  name = "Embedded AI"
   url = "projects/#projects-mdl"
   parent = "Projects"
   weight = 2
