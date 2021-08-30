@@ -132,11 +132,11 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 <img align="left" width="35" height="23" src="../../icon/sensing.png">
 
-&nbsp; [**Smart Wireless Sensing**](projects/#projects-indoor)
+&nbsp; [**Wireless & Sensing**](projects/#projects-indoor)
 
 <img align="left" width="35" height="23" src="../../icon/drone.png">
 
-&nbsp; [**Drone Remote Sesning**]()
+&nbsp; [**Drone Remote Sensing**]()
 
 <!--<img align="left" width="23" height="23" src="../../icon/hand.png">-->
 <!---->
@@ -196,9 +196,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-<!--### **Wireless & Sensing:**-->
-
-### **Smart Wireless Sensing:**
+### **Wireless & Sensing:**
 
 
 [**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
