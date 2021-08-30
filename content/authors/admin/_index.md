@@ -116,25 +116,25 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 <img align="left" width="23" height="23" src="../../icon/crc.png">
 
-&nbsp; [**Critical Supply Chain CRC**](https://www.linkedin.com/company/critical-supply-chain-crc-bid/) 
+&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://www.linkedin.com/company/critical-supply-chain-crc-bid/) 
 
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
-&nbsp; [**LPWANs**](projects/#projects-sensor) 
+&nbsp; &nbsp; [**LPWANs**](projects/#projects-sensor) 
 
 <img align="left" width="23" height="23" src="../../icon/ai.png">
 
-&nbsp;  [**Embedded AI**](projects/#projects-mdl)
+&nbsp; &nbsp; [**Embedded AI**](projects/#projects-mdl)
 
-<!--<img align="left" width="23" height="23" src="../../icon/location.png">-->
+<!--<img align="left" width="35" height="23" src="../../icon/location.png">-->
 <!---->
 <!--&nbsp; [**Indoor Positioning**](projects/#projects-indoor)-->
 
-<img align="left" width="23" height="23" src="../../icon/sensing.png">
+<img align="left" width="35" height="23" src="../../icon/sensing.png">
 
 &nbsp; [**Smart Wireless Sensing**](projects/#projects-indoor)
 
-<img align="left" width="23" height="23" src="../../icon/drone.png">
+<img align="left" width="35" height="23" src="../../icon/drone.png">
 
 &nbsp; [**Drone Remote Sesning**]()
 
