@@ -120,19 +120,27 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
-&nbsp; [**LPWAN**](projects/#projects-sensor) 
+&nbsp; [**LPWANs**](projects/#projects-sensor) 
 
 <img align="left" width="23" height="23" src="../../icon/ai.png">
 
-&nbsp;  [**Mobile Deep Learning**](projects/#projects-mdl)
+&nbsp;  [**Embedded AI**](projects/#projects-mdl)
 
-<img align="left" width="23" height="23" src="../../icon/location.png">
+<!--<img align="left" width="23" height="23" src="../../icon/location.png">-->
+<!---->
+<!--&nbsp; [**Indoor Positioning**](projects/#projects-indoor)-->
 
-&nbsp; [**Indoor Positioning**](projects/#projects-indoor)
+<img align="left" width="23" height="23" src="../../icon/sensing.png">
 
-<img align="left" width="23" height="23" src="../../icon/hand.png">
+&nbsp; [**Smart Wireless Sensing**](projects/#projects-indoor)
 
-&nbsp; [**Activity and Gesture Detection**](projects/#projects-gesture)
+<img align="left" width="23" height="23" src="../../icon/drone.png">
+
+&nbsp; [**Drone Remote Sesning**]()
+
+<!--<img align="left" width="23" height="23" src="../../icon/hand.png">-->
+<!---->
+<!--&nbsp; [**Activity and Gesture Detection**](projects/#projects-gesture)-->
 
 <!--<img align="left" width="23" height="23" src="../../icon/data.png">-->
 <!---->
@@ -146,7 +154,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-### **LoRaWAN:**
+### **LPWANs:**
 
 
 [**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
@@ -167,7 +175,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-### **Mobile Deep Learning:**
+### **Embedded AI:**
 
 [**\[ToN'21\]**](https://dl.acm.org/journal/ton)  Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/mdldroid_ton.pdf), IEEE/ACM Transactions on Networking (ToN), 2021. 
 
@@ -188,7 +196,9 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 
 
-### **Wireless & Sensing:**
+<!--### **Wireless & Sensing:**-->
+
+### **Smart Wireless Sensing:**
 
 
 [**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
