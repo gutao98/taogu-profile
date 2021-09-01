@@ -36,6 +36,7 @@ header:
 
 **Conference TPC Membership**
 
+- IPSN 2022
 - SenSys 2021
 - IoTDI 2020
 - INFOCOM 2011-2017, 2019-2021
