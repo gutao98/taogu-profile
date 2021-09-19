@@ -116,7 +116,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 
 <img align="left" width="23" height="23" src="../../icon/crc.png">
 
-&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://www.linkedin.com/company/critical-supply-chain-crc-bid/) 
+&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://page.mq.edu.au/critical-supply-chain-crc.html) 
 
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
