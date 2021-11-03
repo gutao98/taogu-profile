@@ -20,6 +20,7 @@ header:
 
 <font size=2>
 
+1. Weiyan Chen, Fusang Zhang, Tao Gu, Kexing Zhou, Zixuan Huo, and Daqing Zhang. Constructing Floor Plan through Smoke using Ultra Wideband Radar, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021.
 1. Hao Zhang, Yafeng Yin, Lei Xie, Tao Gu, Minghui You, and Sanglu Lu. DynaKey: Dynamic Keystroke Tracking using a Head-Mounted Camera Device, IEEE Internet of Things Journal (IoT-J), 2021.
 1. Guangming Cui, Qiang He, Xiaoyu Xia, Feifei Chen, Tao Gu, Hai Jin, and Yun Yang. Demand Response in NOMA-based Mobile Edge Computing: A Two-phase Game-theoretical Approach, IEEE Transactions on Mobile Computing (TMC), 2021.
 1. Landu Jiang, Wen Xie, Dian Zhang, Tao Gu. Smart Diagnosis: Deep Learning Boosted Driver Inattention Detection and Abnormal Driving Prediction, IEEE Internet of Things Journal (IoT-J), 2021. [**PDF**](paper/diagnosis_iot.pdf) 
