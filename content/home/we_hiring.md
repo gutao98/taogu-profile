@@ -72,7 +72,7 @@ subtitle = ""
 
 # <font color=Blue> We are hiring Postdocs and PhD students! </font>
 
-The IoT research team in the Department of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
+The IoT research team in School of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
 
 
 Postdoc requirements:

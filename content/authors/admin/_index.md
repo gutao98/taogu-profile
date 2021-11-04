@@ -11,7 +11,7 @@ role: "Email: firstname dot lastname AT mq.edu.au <br/> Phone: +61-2-9850-4357 <
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computing, Macquarie University
+- name: School of Computing, Macquarie University
   url: "https://www.mq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -107,7 +107,7 @@ user_groups:
 ---
 
 
-I am currently a Professor in Department of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney. I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Electrical and Electronic Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). I am currently serving as an Editor of [*Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*](https://dl.acm.org/journal/imwut), an Associate Editor of [*IEEE Transactions on Mobile Computing (TMC)*](https://www.computer.org/csdl/journal/tm) and [*IEEE Internet of Things Journal (IoT-J)*](https://ieee-iotj.org/). 
+I am currently a Professor in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney. I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Electrical and Electronic Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). I am currently serving as an Editor of [*Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*](https://dl.acm.org/journal/imwut), an Associate Editor of [*IEEE Transactions on Mobile Computing (TMC)*](https://www.computer.org/csdl/journal/tm) and [*IEEE Internet of Things Journal (IoT-J)*](https://ieee-iotj.org/). 
 
 The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
