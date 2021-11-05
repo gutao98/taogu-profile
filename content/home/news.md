@@ -72,6 +72,8 @@ subtitle = ""
  
 +++
 
+**11/2021:** It is my great pleasure to serve as a **General Co-Chair of ACM MobiCom 2022** to be held in **Sydney** next year.
+
 **07/2021:** We have two papers accepted by **ACM/IEEE ToN**. Congratulations to **Yu** and **Xianjin**!
 
 **07/2021:** Congratulations to **Yu Zhang** for receiving the **Research Achievement
