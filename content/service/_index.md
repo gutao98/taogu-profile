@@ -21,6 +21,7 @@ header:
 
 **Conference Organizer**
 
+- MobiCom 2022, General Co-Chair
 - IoTDI 2021, TPC Co-Chair
 - MobiQuitous 2017, General Chair
 - ICNP 2016, Travel Grants Chair
