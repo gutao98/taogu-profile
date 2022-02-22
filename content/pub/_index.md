@@ -107,6 +107,7 @@ header:
 <font size=2>
 
 
+1. Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device, in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022. [**PDF**](paper/IPSN2022.pdf)
 1. Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022. 
 1. Xinran Lu, Lei Xie, Fang Wang, Tao Gu, Chuyu Wang, Wei Wang, and Sanglu Lu. Separating Voices from Multiple Sound Sources using 2D Microphone Array, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022. 
 1. Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.

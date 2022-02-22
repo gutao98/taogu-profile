@@ -199,6 +199,9 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 ### **Wireless & Sensing:**
 
 
+[**\[IPSN'22\]**](https://ipsn.acm.org/2022/) Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
+
+
 [**\[INFOCOM'22\]**](https://infocom2022.ieee-infocom.org/) Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022.
 
 
@@ -211,7 +214,7 @@ The long-term goal of my research aims to discover innovative ways of sensing an
 <!--[**\[TMC'19\]**](https://www.computer.org/csdl/journal/tm) Yao Wang, Wandong Cai, Tao Gu, and Wei Shao. [Your Eyes Reveal Your Secrets: An Eye Movement Based Password Inference on Smartphone](pub/paper/Eyes.pdf), IEEE Transactions on Mobile Computing (TMC), 2019.-->
 
 
-[**\[ToN'19\]**](https://dl.acm.org/journal/ton) Xianjin Xia, Shining Li, Yu Zhang, Bingqi Li, Yuanqing Zheng, and Tao Gu. [Enabling Out-of-band Coordination of Wi-Fi Communications on Smartphones](pub/paper/Coordination.pdf), IEEE/ACM Transactions on Networking (ToN), Vol. 27, No. 2, pp. 518-531, April 2019.
+<!--[**\[ToN'19\]**](https://dl.acm.org/journal/ton) Xianjin Xia, Shining Li, Yu Zhang, Bingqi Li, Yuanqing Zheng, and Tao Gu. [Enabling Out-of-band Coordination of Wi-Fi Communications on Smartphones](pub/paper/Coordination.pdf), IEEE/ACM Transactions on Networking (ToN), Vol. 27, No. 2, pp. 518-531, April 2019.-->
 
 
 <!--[**\[UbiComp'18\]**](http://www.ubicomp.org/ubicomp2018/) Yu Zhang, Tao Gu, Chu Luo, Vassilis Kostakos, and Aruna Seneviratne. [FinDroidHR: Smartwatch Gesture Input with Optical Heartrate Monitor](pub/paper/Paper_1_Ubicomp_2018.pdf), in Proc. of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2018), Singapore, October 9-11, 2018. -->
