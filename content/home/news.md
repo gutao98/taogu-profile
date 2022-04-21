@@ -72,6 +72,11 @@ subtitle = ""
  
 +++
 
+
+**04/2022:** We have succesfully secured a **$1.7M fund from CSRIO**.
+
+**Artificial Intelligence of Things for Resilient and Sustainable Smart Cities**, funded by CSRIO under the Next Generations Graduates programs, Next Generation Emerging Technologies challenges, **April 2022 - Oct 2025**.
+
 **02/2022:** We have one paper accepted at **IPSN 2022**. I was invited to serve the **TPC of SenSys 2022**.
 
 **12/2021:** We have two papers accepted at **INFOCOM 2022**. 
