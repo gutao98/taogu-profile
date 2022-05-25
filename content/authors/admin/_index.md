@@ -111,7 +111,7 @@ I am currently a Professor in School of Computing at [Macquarie University](http
 
 The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. My current research interests include Internet of Things, Embedded AI, Mobile Computing, Ubiquitous Computing, and Big Data Analytics. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [ACM/IEEE ToN](https://dl.acm.org/journal/ton), [IEEE JSAC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49), [IEEE TMC](https://www.computer.org/csdl/journal/tm),  [MobiCom](https://www.sigmobile.org/mobicom/2021/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
-We are hiring PhD students! Please see [Hiring](home/#we_hiring).
+We are hiring PhD students! Please see [Hiring](#we_hiring).
 
 
 # On-going Projects
