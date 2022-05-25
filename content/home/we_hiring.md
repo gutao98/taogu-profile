@@ -70,6 +70,25 @@ subtitle = ""
 +++
 
 
+
+
+# <font color=Blue> New: We are hiring PhD students! </font>
+
+In this new project, we aim to research, develop and deliver novel IoT platforms and solutions that will allow for massive connectivity of sensors, intelligent processing of data, and AIoT infrastructure support to optimise city functions and drive economic growth while improving quality of life for its citizens.
+
+PhD student requirements:
+- Master’s degree in Computer Science or Electrical Engineering.
+- Solid theoretical foundation and strong system implementation skills.
+- Self-motivated and have strong passion in conducting high-quality research.
+- PR or Australian citizen.
+
+<!--(including 6 months industrial placement),  -->
+We offer full PhD scholarship of $40,500 per year for up to 3.5 years provided by CSIRO, including training allowance for up to $15,000 and travel allowance for up to $5,000. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
+
+
+
+
+
 # <font color=Blue> We are hiring Postdocs and PhD students! </font>
 
 The IoT research team in School of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
@@ -92,17 +111,5 @@ We offer full PhD scholarship and competitive salaries and provide a vibrant res
 
 
 
-# <font color=Blue> New: We are hiring PhD students! </font>
-
-In this new project, we aim to research, develop and deliver novel IoT platforms and solutions that will allow for massive connectivity of sensors, intelligent processing of data, and AIoT infrastructure support to optimise city functions and drive economic growth while improving quality of life for its citizens.
-
-PhD student requirements:
-- Master’s degree in Computer Science or Electrical Engineering.
-- Solid theoretical foundation and strong system implementation skills.
-- Self-motivated and have strong passion in conducting high-quality research.
-- PR or Australian citizen.
-
-<!--(including 6 months industrial placement),  -->
-We offer full PhD scholarship of $40,500 per year for up to 3.5 years provided by CSIRO, including training allowance for up to $15,000 and travel allowance for up to $5,000. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
 
 
