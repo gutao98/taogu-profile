@@ -72,7 +72,7 @@ subtitle = ""
 
 
 
-# <font color=Blue> New: We are hiring PhD students! </font>
+# <font color=Blue> New: We are hiring multiple PhD students! </font>
 
 In this new project, we aim to research, develop and deliver novel IoT platforms and solutions that will allow for massive connectivity of sensors, intelligent processing of data, and AIoT infrastructure support to optimise city functions and drive economic growth while improving quality of life for its citizens.
 
@@ -83,7 +83,7 @@ PhD student requirements:
 - PR or Australian citizen.
 
 <!--(including 6 months industrial placement),  -->
-We offer full PhD scholarship of $40,500 per year for up to 3.5 years provided by CSIRO, including training allowance for up to $15,000 and travel allowance for up to $5,000. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
+We offer a competitive PhD scholarship of $40,500 per year (provided by CSIRO). In addition, we provide a training allowance of $15,000 and a travel allowance of $5,000 for each student. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
 
 
 
