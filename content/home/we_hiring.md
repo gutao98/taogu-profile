@@ -85,7 +85,7 @@ PhD student requirements:
 <!--(including 6 months industrial placement),  -->
 We offer a competitive PhD scholarship of $40,500 per year (provided by CSIRO). In addition, we provide a training allowance of $15,000 and a travel allowance of $5,000 for each student. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
 
-
+Please check out [Here](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/artificial-intelligence-of-things-for-resilient-and-sustainable-smart-cities/_nocache) for more detail.
 
 
 
