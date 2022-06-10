@@ -73,6 +73,8 @@ subtitle = ""
 +++
 
 
+**06/2022:** We have one paper accepted at **MobiCom 2022**. Congratulations to **Yao**!
+
 **04/2022:** We have succesfully secured a **$1.7M fund from CSRIO**.
 
 **Artificial Intelligence of Things for Resilient and Sustainable Smart Cities**, funded by CSRIO under the Next Generations Graduates programs, Next Generation Emerging Technologies challenges, **April 2022 - Oct 2025**.

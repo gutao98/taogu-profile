@@ -202,6 +202,9 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 ### **Wireless & Sensing:**
 
 
+[**\[MobiCom'22\]**](https://sigmobile.org/mobicom/2022/) Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
+
+
 [**\[IPSN'22\]**](https://ipsn.acm.org/2022/) Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
 
 
@@ -211,7 +214,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 [**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 
 
-[**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.
+<!--[**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.-->
 
 
 <!--[**\[TMC'19\]**](https://www.computer.org/csdl/journal/tm) Yao Wang, Wandong Cai, Tao Gu, and Wei Shao. [Your Eyes Reveal Your Secrets: An Eye Movement Based Password Inference on Smartphone](pub/paper/Eyes.pdf), IEEE Transactions on Mobile Computing (TMC), 2019.-->
