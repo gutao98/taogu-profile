@@ -121,9 +121,16 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 &nbsp; &nbsp; [**Critical Supply Chain CRC**](https://page.mq.edu.au/critical-supply-chain-crc.html) 
 
+
+<img align="left" width="35" height="23" src="../../icon/sensing.png">
+
+&nbsp; [**Wireless & Sensing**](projects/#projects-indoor)
+
+
 <img align="left" width="23" height="23" src="../../icon/lora.png">
 
 &nbsp; &nbsp; [**LPWANs**](projects/#projects-sensor) 
+
 
 <img align="left" width="23" height="23" src="../../icon/ai.png">
 
@@ -132,10 +139,6 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 <!--<img align="left" width="35" height="23" src="../../icon/location.png">-->
 <!---->
 <!--&nbsp; [**Indoor Positioning**](projects/#projects-indoor)-->
-
-<img align="left" width="35" height="23" src="../../icon/sensing.png">
-
-&nbsp; [**Wireless & Sensing**](projects/#projects-indoor)
 
 <img align="left" width="35" height="23" src="../../icon/drone.png">
 
@@ -156,77 +159,52 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
+### **Wireless & Sensing:**
+
+
+**[MobiCom'22]** Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
+
+
+**[IPSN'22]** Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
+
+
+**[INFOCOM'22]** Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022.
+
+
+**[MobiCom'21]** Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
+
+
 
 ### **LPWANs:**
 
 
-[**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
+**[MobiCom'21]** Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
 
 
-[**\[ToN'20\]**](https://dl.acm.org/journal/ton)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.
+**[ToN'20]** Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.
 
 
-[**\[INFOCOM'20\]**](https://infocom2020.ieee-infocom.org/)  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [LiteNap: Downclocking LoRa Reception](pub/paper/LiteNap.pdf), in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020.
+**[INFOCOM'20]**  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [LiteNap: Downclocking LoRa Reception](pub/paper/LiteNap.pdf), in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020.
 
 
-[**\[IPSN'20\]**](https://ipsn.acm.org/2020/) Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. [SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images](pub/paper/SateLoc.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.
-
-<!--[**\[SenSys'19\]**](http://sensys.acm.org/2019/) Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack_sensys.pdf), in Proc. of the 17th ACM Conference on Embedded Networked Sensor Systems (SenSys 2019), New York, November 10-13, 2019.-->
-
-
+**[IPSN'20]** Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. [SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images](pub/paper/SateLoc.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.
 
 
 
 
 ### **Embedded AI:**
 
-[**\[ToN'21\]**](https://dl.acm.org/journal/ton)  Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/mdldroid_ton.pdf), IEEE/ACM Transactions on Networking (ToN), 2021. 
+**[ToN'21]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/mdldroid_ton.pdf), IEEE/ACM Transactions on Networking (ToN), 2021. 
 
 
-[**\[TMC'21\]**](https://www.computer.org/csdl/journal/tm) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/mdl_tmc.pdf), IEEE Transactions on Mobile Computing (TMC), 2021. 
+**[TMC'21]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/mdl_tmc.pdf), IEEE Transactions on Mobile Computing (TMC), 2021. 
 
 
-[**\[SenSys'20\]**](http://sensys.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
+**[SenSys'20]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
 
 
-[**\[IPSN'20\]**](https://ipsn.acm.org/2020/) Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/Paper_2_IPSN_2020.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. 
+**[IPSN'20]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/Paper_2_IPSN_2020.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. 
 
-
-<!--[**\[UbiComp'18\]**](http://www.ubicomp.org/ubicomp2018/) Xiang Zhang, Lina Yao, Salil Kanhere, Yunhao Liu, Tao Gu, and Kaixuan Chen. [MindID: Person Identification from Brain Waves through Attention-based Recurrent Neural Network](pub/paper/MindID.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Vol. 2, No. 3, Article No. 149, September 2018.-->
-
-
-
-
-
-
-### **Wireless & Sensing:**
-
-
-[**\[MobiCom'22\]**](https://sigmobile.org/mobicom/2022/) Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
-
-
-[**\[IPSN'22\]**](https://ipsn.acm.org/2022/) Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
-
-
-[**\[INFOCOM'22\]**](https://infocom2022.ieee-infocom.org/) Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022.
-
-
-[**\[MobiCom'21\]**](https://sigmobile.org/mobicom/2021/) Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
-
-
-<!--[**\[UbiComp'20\]**](http://www.ubicomp.org/ubicomp2020/) Dan Wu, Ruiyang Gao, Youwei Zeng, Jinyi Liu, Leye Wang, Tao Gu, and Daqing Zhang. [FingerDraw: Sub-wavelength Level Finger Motion Tracking with WiFi Signals](pub/paper/FingerDraw.pdf), the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.-->
-
-
-<!--[**\[TMC'19\]**](https://www.computer.org/csdl/journal/tm) Yao Wang, Wandong Cai, Tao Gu, and Wei Shao. [Your Eyes Reveal Your Secrets: An Eye Movement Based Password Inference on Smartphone](pub/paper/Eyes.pdf), IEEE Transactions on Mobile Computing (TMC), 2019.-->
-
-
-<!--[**\[ToN'19\]**](https://dl.acm.org/journal/ton) Xianjin Xia, Shining Li, Yu Zhang, Bingqi Li, Yuanqing Zheng, and Tao Gu. [Enabling Out-of-band Coordination of Wi-Fi Communications on Smartphones](pub/paper/Coordination.pdf), IEEE/ACM Transactions on Networking (ToN), Vol. 27, No. 2, pp. 518-531, April 2019.-->
-
-
-<!--[**\[UbiComp'18\]**](http://www.ubicomp.org/ubicomp2018/) Yu Zhang, Tao Gu, Chu Luo, Vassilis Kostakos, and Aruna Seneviratne. [FinDroidHR: Smartwatch Gesture Input with Optical Heartrate Monitor](pub/paper/Paper_1_Ubicomp_2018.pdf), in Proc. of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2018), Singapore, October 9-11, 2018. -->
-
-
-<!--[**\[INFOCOM'18\]**](https://infocom2018.ieee-infocom.org/) Zhiwei Zhao, Wei Dong, Geyong Min, Gonglong Chen, Tao Gu, and Jiajun Bu. [Towards Repeatable Wireless Network Simulation Using Performance Aware Markov Model](pub/paper/Repeatable.pdf), in Proc. of IEEE INFOCOM 2018, Honolulu, USA, April 15-19, 2018.-->
 
 
 
