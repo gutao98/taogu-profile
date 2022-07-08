@@ -19,7 +19,7 @@ header:
 <font size=5> **Refereed Journal Papers** </font>
 
 <font size=2>
-
+1. Yongliang Chen, Tao Ni, Weitao Xu, and Tao Gu. SwipePass: Acoustic-based Second-factor User Authentication for Smartphones, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.
 1.  Xianjin Xia, Ningning Hou, Yuanqing Zheng, and Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, ACM Transactions on Sensor Networks (TOSN), 2022.
 1. Lei Xie, Peicheng Yang, Chuyu Wang, Tao Gu, Gaolei Duan, Xinran Lu, and Sanglu Lu. GaitTracker: 3D Skeletal Tracking for Gait Analysis based on Inertial Measurement Units, ACM Transactions on Sensor Networks (TOSN), 2021.
 1. Weiyan Chen, Fusang Zhang, Tao Gu, Kexing Zhou, Zixuan Huo, and Daqing Zhang. Constructing Floor Plan through Smoke using Ultra Wideband Radar, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021.
