@@ -109,6 +109,7 @@ header:
 <font size=2>
 
 
+1. Yao Wang, Tao Gu, Tom H. Luan, and Yong Yu. Your Breath Doesn't Lie: Multi-user Authentication by Sensing Respiration using mmWave Radar, in Proc. of IEEE International Conference on Sensing, Communication, and Networking (SECON 2022), 20-23 September 2022.
 1. Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device, in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022. [**PDF**](paper/IPSN2022.pdf)
 1. Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022. 
 1. Xinran Lu, Lei Xie, Fang Wang, Tao Gu, Chuyu Wang, Wei Wang, and Sanglu Lu. Separating Voices from Multiple Sound Sources using 2D Microphone Array, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022. 
