@@ -20,6 +20,8 @@ header:
 
 <font size=2>
 
+
+1. Yao Wang, Tao Gu, Tom Luan, Minjie Lyu, and Yue Li. HeartPrint: Exploring a Heartbeat-based Multi-user Authentication with Single mmWave Radar, IEEE Internet of Things Journal (IoT-J), 2022.
 1. Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.
 1. Yongliang Chen, Tao Ni, Weitao Xu, and Tao Gu. SwipePass: Acoustic-based Second-factor User Authentication for Smartphones, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022.
 1.  Xianjin Xia, Ningning Hou, Yuanqing Zheng, and Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, ACM Transactions on Sensor Networks (TOSN), 2022.
