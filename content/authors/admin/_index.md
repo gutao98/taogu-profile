@@ -119,8 +119,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 <img align="left" width="23" height="23" src="../../icon/crc.png">
 
-&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://page.mq.edu.au/critical-supply-chain-crc.html) 
-
+&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://criticalsupplychaincrc.com/) 
 
 <img align="left" width="35" height="23" src="../../icon/sensing.png">
 
