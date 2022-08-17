@@ -161,7 +161,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 ### **Wireless & Sensing:**
 
 
-**[MobiCom'22]** Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
+**[MobiCom'22]** Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. [Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response](pub/paper/Device_Pairing.pdf), in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
 
 
 **[IPSN'22]** Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
