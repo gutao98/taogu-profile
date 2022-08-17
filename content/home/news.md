@@ -73,7 +73,7 @@ subtitle = ""
 +++
 
 
-<!--**06/2022:** We have one paper accepted at **MobiCom 2022**. Congratulations to **Yao**!-->
+**08/2022:** We have one paper accepted at **MobiCom 2022**. Congratulations to **Yao**!
 
 **04/2022:** We have succesfully secured a **$1.7M fund from CSRIO**.
 
