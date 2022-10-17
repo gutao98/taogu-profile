@@ -72,6 +72,7 @@ subtitle = ""
  
 +++
 
+**10/2022:** We have one paper accepted at **SenSys 2022**. Congratulations to **Zhenguo**!
 
 **08/2022:** We have one paper accepted at **MobiCom 2022**. Congratulations to **Yao**!
 
