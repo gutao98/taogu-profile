@@ -72,7 +72,7 @@ subtitle = ""
  
 +++
 
-**10/2022:** We won the **MobiCom 2022 Best Poster Award**. Congratulations to **Yao**! The video can be accessed via https://youtu.be/Jt-X4lAZSbk.
+**10/2022:** We won the **MobiCom 2022 Best Poster Award**. Congratulations to **Yao**! The video can be accessed via  <a href="https://youtu.be/Jt-X4lAZSbk" target="_blank"> here </a>.
 
 **10/2022:** We have one paper accepted at **SenSys 2022**. Congratulations to **Zhenguo**!
 
