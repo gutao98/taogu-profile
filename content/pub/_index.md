@@ -111,7 +111,7 @@ header:
 <font size=2>
 
 
-1. Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022.
+1. Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. [**PDF**](paper/mmBP.pdf)
 1. Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.[**PDF**](paper/Device_Pairing.pdf)
 1. Yao Wang, Tao Gu, Tom H. Luan, and Yong Yu. Your Breath Doesn't Lie: Multi-user Authentication by Sensing Respiration using mmWave Radar, in Proc. of IEEE International Conference on Sensing, Communication, and Networking (SECON 2022), 20-23 September 2022.
 1. Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device, in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022. [**PDF**](paper/IPSN2022.pdf)

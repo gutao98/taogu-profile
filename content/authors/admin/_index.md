@@ -162,7 +162,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 ### **Wireless & Sensing:**
 
-**[SenSys'22]** Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022.
+**[SenSys'22]** Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. [mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement](pub/paper/mmBP.pdf), in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022.
 
 **[MobiCom'22]** Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. [Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response](pub/paper/Device_Pairing.pdf), in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
 
