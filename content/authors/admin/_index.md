@@ -117,97 +117,161 @@ The long-term goal of my research aims to discover innovative ways of connecting
 We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
-# On-going Projects
+# Research Projects
 
-<img align="left" width="23" height="23" src="../../icon/crc.png">
-
-&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://criticalsupplychaincrc.com/) 
-
-<img align="left" width="35" height="23" src="../../icon/sensing.png">
-
-&nbsp; [**Wireless & Sensing**](projects/#projects-indoor)
-
-
-<img align="left" width="23" height="23" src="../../icon/lora.png">
-
-&nbsp; &nbsp; [**LPWANs**](projects/#projects-sensor) 
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/crc.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="https://criticalsupplychaincrc.com/">Critical Supply Chain CRC</a></h5>
+              <p style="font-size:15pt">Critical Supply Chain CRC will deliver an innovation ecosystem supporting Australia’s economic future through effective and highly competitive domestic and export supply chains. It is critical that all stakeholders come together to provide demand led end-to-end supply chain solutions.</p>
+<!--              <p style="font-size:12pt"></p>-->
+            </div>
+</div>
 
 
-<img align="left" width="23" height="23" src="../../icon/ai.png">
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/health.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="">Digital Health</a></h5>
+              <p style="font-size:15pt">New digital vital sign detection and contactless health monitoring of patients with blood pressue, sleep stage, heartbeat and respiration, etc.</p>
+              <p style="font-size:14pt">
+                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. </br>
+                <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>
+                <b>[IoT-J'21]</b> Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. <a href=""> WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices</a>, IEEE Internet of Things Journal (IoT-J), 2021. </br>
+                <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>
+              </p>
+            </div>
+</div>
 
-&nbsp; &nbsp; [**Embedded AI**](projects/#projects-mdl)
 
-<!--<img align="left" width="35" height="23" src="../../icon/location.png">-->
+
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/sensing.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="projects/#projects/#projects-indoor">Wirless and Mobile Systems</a></h5>
+              <p style="font-size:15pt">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
+              <p style="font-size:14pt">
+<!--                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. </br>-->
+                <b>[MobiCom'22]</b> Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. <a href="pub/paper/Device_Pairing.pdf"> Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response</a>, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022. </br>
+                <b>[IPSN'22]</b> Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. <a href="pub/paper/IPSN2022.pdf"> Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device</a>, in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022. </br>
+                <b>[MobiCom'21]</b> Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. <a href=""> RFID and Camera Fusion for Recognition of Human-Object Interactions</a>, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>
+              </p>
+            </div>
+</div>
+
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/lora.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="projects/#projects-sensor">LoRaWANs</a></h5>
+              <p style="font-size:15pt">New transmission techniqes, energy saving approaches, and network frameworks that enable low-cost long-range LoRa networks, optimize communications, and enhance network security.</p>
+              <p style="font-size:14pt">
+                <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>
+                <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>
+                <b>[INFOCOM'20]</b> Xianjin Xia, Yuanqing Zheng, and Tao Gu. <a href="pub/paper/LiteNap.pdf"> LiteNap: Downclocking LoRa Reception</a>, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. </br>
+                <b>[IPSN'20]</b> Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. <a href="pub/paper/SateLoc.pdf"> SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. </br>
+              </p>
+            </div>
+</div>
+
+
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/ai.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="projects/#projects-mdl">Edge and Embedded AI</a></h5>
+              <p style="font-size:15pt">New learning frameworks, lightweight designs, and end-to-end optimization that enpower edge computing, advance embedded systems, and facilitate on-device AI applications.</p>
+              <p style="font-size:14pt">
+                <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
+                <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>
+                <b>[SenSys'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_3_SenSys_2020.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020.  </br>
+                <b>[IPSN'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_2_IPSN_2020.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.   </br>
+              </p>
+            </div>
+</div>
+
+
+
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2">
+                <img class="center" width="150" height="150" src="../../icon/drone.svg">
+            </div>
+            <div class="col-xl-10">
+              <h5 style="font-size:20pt"><a href="">Drone Systems</a></h5>
+              <p style="font-size:15pt">New autonomous designs, remote sensing techniques, and communications that enhance roubstness, stafy, and reilability.</p>
+<!--              <p style="font-size:12pt"></p>-->
+            </div>
+</div>
+                        
+                        
+                        
+                        
+            
+
+
+
+
+
+<!--# On-going Projects-->
+<!--<img align="left" width="23" height="23" src="../../icon/crc.png">-->
 <!---->
-<!--&nbsp; [**Indoor Positioning**](projects/#projects-indoor)-->
-
-<img align="left" width="35" height="23" src="../../icon/drone.png">
-
-&nbsp; [**Drone Remote Sensing**]()
-
-<!--<img align="left" width="23" height="23" src="../../icon/hand.png">-->
+<!--&nbsp; &nbsp; [**Critical Supply Chain CRC**](https://criticalsupplychaincrc.com/) -->
 <!---->
-<!--&nbsp; [**Activity and Gesture Detection**](projects/#projects-gesture)-->
-
-<!--<img align="left" width="23" height="23" src="../../icon/data.png">-->
+<!--<img align="left" width="35" height="23" src="../../icon/sensing.png">-->
 <!---->
-<!--&nbsp; [**Sensor Data Analytics**](projects/#projects-data)-->
+<!--&nbsp; [**Wireless & Sensing**](projects/#projects-indoor)-->
+<!---->
+<!---->
+<!--<img align="left" width="23" height="23" src="../../icon/lora.png">-->
+<!---->
+<!--&nbsp; &nbsp; [**LPWANs**](projects/#projects-sensor) -->
+<!---->
+<!---->
+<!--<img align="left" width="23" height="23" src="../../icon/ai.png">-->
+<!---->
+<!--&nbsp; &nbsp; [**Embedded AI**](projects/#projects-mdl)-->
+<!---->
+<!--<!--<img align="left" width="35" height="23" src="../../icon/location.png">-->
+<!--<!---->
+<!--<!--&nbsp; [**Indoor Positioning**](projects/#projects-indoor)-->
+<!---->
+<!--<img align="left" width="35" height="23" src="../../icon/drone.png">-->
+<!---->
+<!--&nbsp; [**Drone Remote Sensing**]()-->
+<!---->
+<!--<!--<img align="left" width="23" height="23" src="../../icon/hand.png">-->
+<!--<!---->
+<!--<!--&nbsp; [**Activity and Gesture Detection**](projects/#projects-gesture)-->
+<!---->
+<!--<!--<img align="left" width="23" height="23" src="../../icon/data.png">-->
+<!--<!---->
+<!--<!--&nbsp; [**Sensor Data Analytics**](projects/#projects-data)-->
 
 
 
 
-# Selected Publications 
-
-
-
-### **Wireless & Sensing:**
-
-**[SenSys'22]** Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. [mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement](pub/paper/mmBP.pdf), in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022.
-
-**[MobiCom'22]** Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. [Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response](pub/paper/Device_Pairing.pdf), in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022.
-
-
-**[IPSN'22]** Zihao Chu, Lei Xie, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. [Edge-Eye: Rectifying Millimeter-Level Edge Deviation in Manufacturing using Camera-enabled IoT Edge Device](pub/paper/IPSN2022.pdf), in Proc. of the 21st ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2022), Milan, Italy, 4-6 May 2022.
-
-
-<!--**[INFOCOM'22]** Jiuwu Zhang, Xiulong Liu, Tao Gu, Bojun Zhang, Dongdong Liu, Zijuan Liu, and Keqiu Li. An RFID and Computer Vision Fusion System for Book Inventory using Mobile Robot, in Proc. of IEEE INFOCOM 2022, May 2-5, 2022.-->
-
-
-**[MobiCom'21]** Xiulong Liu, Dongdong Liu, Jiuwu Zhang, Tao Gu, and Keqiu Li. RFID and Camera Fusion for Recognition of Human-Object Interactions, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
-
-
-
-### **LPWANs:**
-
-
-**[INFOCOM'23]** Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023. 
-
-
-**[MobiCom'21]** Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities, in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021.
-
-<!--**[ToN'20]** Xianjin Xia, Yuanqing Zheng, and Tao Gu. [FTrack: Parallel Decoding for LoRa Transmissions](pub/paper/FTrack.pdf), IEEE/ACM Transactions on Networking (ToN), 2020.-->
-
-
-**[INFOCOM'20]**  Xianjin Xia, Yuanqing Zheng, and Tao Gu. [LiteNap: Downclocking LoRa Reception](pub/paper/LiteNap.pdf), in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020.
-
-
-**[IPSN'20]** Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. [SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images](pub/paper/SateLoc.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.
-
-
-
-
-### **Embedded AI:**
-
-**[ToN'21]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/mdldroid_ton.pdf), IEEE/ACM Transactions on Networking (ToN), 2021. 
-
-
-**[TMC'21]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/mdl_tmc.pdf), IEEE Transactions on Mobile Computing (TMC), 2021. 
-
-
-**[SenSys'20]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices](pub/paper/Paper_3_SenSys_2020.pdf), in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. 
-
-
-**[IPSN'20]** Yu Zhang, Tao Gu, and Xi Zhang. [MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing](pub/paper/Paper_2_IPSN_2020.pdf), in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. 
+<!--# Selected Publications -->
+<!---->
+<!---->
+<!--### **Wireless & Sensing:**-->
+<!---->
+<!---->
+<!--### **LPWANs:**-->
+<!---->
+<!---->
+<!--### **Embedded AI:**-->
 
 
 
