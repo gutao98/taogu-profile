@@ -120,25 +120,29 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 # Research Projects
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/crc.svg">
             </div>
-            <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="https://criticalsupplychaincrc.com/">Critical Supply Chain CRC</a></h5>
-              <p style="font-size:15pt">Critical Supply Chain CRC will deliver an innovation ecosystem supporting Australia’s economic future through effective and highly competitive domestic and export supply chains. It is critical that all stakeholders come together to provide demand led end-to-end supply chain solutions.</p>
+            <div class="col-xl-10" >
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="https://criticalsupplychaincrc.com/" style="color:#32B7D5;">Critical Supply Chain CRC</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px;">Critical Supply Chain CRC will deliver an innovation ecosystem supporting Australia’s economic future through effective and highly competitive domestic and export supply chains. It is critical that all stakeholders come together to provide demand led end-to-end supply chain solutions.</p>
+                </div>
 <!--              <p style="font-size:12pt"></p>-->
             </div>
 </div>
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/health.svg">
             </div>
             <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="">Digital Health</a></h5>
-              <p style="font-size:15pt">New digital vital sign detection and contactless health monitoring of patients with blood pressue, sleep stage, heartbeat and respiration, etc.</p>
-              <p style="font-size:14pt">
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Digital Health</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New digital vital sign detection and contactless health monitoring of patients with blood pressue, sleep stage, heartbeat and respiration, etc.</p>
+                </div>
+              <p style="font-size:14pt;">
                 <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. </br>
                 <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>
                 <b>[IoT-J'21]</b> Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. <a href=""> WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices</a>, IEEE Internet of Things Journal (IoT-J), 2021. </br>
@@ -151,12 +155,14 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/sensing.svg">
             </div>
             <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="projects/#projects/#projects-indoor">Wirless and Mobile Systems</a></h5>
-              <p style="font-size:15pt">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Wirless and Mobile Systems</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
+                </div>
               <p style="font-size:14pt">
 <!--                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. </br>-->
                 <b>[MobiCom'22]</b> Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. <a href="pub/paper/Device_Pairing.pdf"> Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response</a>, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022. </br>
@@ -168,12 +174,14 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/lora.svg">
             </div>
             <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="projects/#projects-sensor">LoRaWANs</a></h5>
-              <p style="font-size:15pt">New transmission techniqes, energy saving approaches, and network frameworks that enable low-cost long-range LoRa networks, optimize communications, and enhance network security.</p>
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">LoRaWANs</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New transmission techniqes, energy saving approaches, and network frameworks that enable low-cost long-range LoRa networks, optimize communications, and enhance network security.</p>
+                </div>
               <p style="font-size:14pt">
                 <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>
                 <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>
@@ -186,12 +194,14 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/ai.svg">
             </div>
             <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="projects/#projects-mdl">Edge and Embedded AI</a></h5>
-              <p style="font-size:15pt">New learning frameworks, lightweight designs, and end-to-end optimization that enpower edge computing, advance embedded systems, and facilitate on-device AI applications.</p>
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge and Embedded AI</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New learning frameworks, lightweight designs, and end-to-end optimization that enpower edge computing, advance embedded systems, and facilitate on-device AI applications.</p>
+                </div>
               <p style="font-size:14pt">
                 <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
                 <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>
@@ -205,12 +215,14 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2">
+            <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/drone.svg">
             </div>
             <div class="col-xl-10">
-              <h5 style="font-size:20pt"><a href="">Drone Systems</a></h5>
-              <p style="font-size:15pt">New autonomous designs, remote sensing techniques, and communications that enhance roubstness, stafy, and reilability.</p>
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Drone Systems</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New autonomous designs, remote sensing techniques, and communications that enhance roubstness, stafy, and reilability.</p>
+                </div>
 <!--              <p style="font-size:12pt"></p>-->
             </div>
 </div>
