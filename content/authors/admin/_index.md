@@ -160,7 +160,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Wirless and Mobile Systems</a></h5>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Wireless and Mobile Systems</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
                 </div>
               <p style="font-size:14pt">
