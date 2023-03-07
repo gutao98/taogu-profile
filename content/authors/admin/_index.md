@@ -148,9 +148,9 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New digital vital sign detection and contactless health monitoring of patients with blood pressue, sleep stage, heartbeat and respiration, etc.</p>
                 </div>
               <p style="font-size:14pt;">
+                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
                 <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. <b><a href="https://www.youtube.com/watch?v=QUimASk7mk8"> [Demo Video]</a></b>  </br>
                 <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>
-                <b>[IoT-J'21]</b> Bohan Yu, Yuxiang Wang, Kai Niu, Youwei Zeng, Tao Gu, Leye Wang, Cuntai Guan, and Daqing Zhang. <a href=""> WiFi-Sleep: Sleep Stage Monitoring Using Commodity Wi-Fi Devices</a>, IEEE Internet of Things Journal (IoT-J), 2021. </br>
                 <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>
               </p>
             </div>
@@ -188,10 +188,10 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New transmission techniqes, energy saving approaches, and network frameworks that enable low-cost long-range LoRa networks, optimize communications, and enhance network security.</p>
                 </div>
               <p style="font-size:14pt">
+                <b>[IPSN'23]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks, in Proc. of the 22nd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2023), San Antonio, Texas, May 9-12, 2023. </br>
                 <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>
                 <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>
                 <b>[INFOCOM'20]</b> Xianjin Xia, Yuanqing Zheng, and Tao Gu. <a href="pub/paper/LiteNap.pdf"> LiteNap: Downclocking LoRa Reception</a>, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. </br>
-                <b>[IPSN'20]</b> Yuxiang Lin, Wei Dong, Yi Gao, and Tao Gu. <a href="pub/paper/SateLoc.pdf"> SateLoc: A Virtual Fingerprinting Approach to Outdoor LoRa Localization using Satellite Images</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020. </br>
               </p>
             </div>
 </div>
