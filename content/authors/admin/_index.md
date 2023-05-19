@@ -144,8 +144,8 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Digital Health</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New digital vital sign detection and contactless health monitoring of patients with blood pressue, sleep stage, heartbeat and respiration, etc.</p>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Sensing for Digital Health</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Contactless vital sign and health monitoring, non-invasive monitoring of blood pressure, sleep stage, heartbeat, and respiration for digital health applications.</p>
                 </div>
               <p style="font-size:14pt;">
                 <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
@@ -165,7 +165,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Wireless and Mobile Systems</a></h5>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Sensing and Mobile Systems</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
                 </div>
               <p style="font-size:14pt">
