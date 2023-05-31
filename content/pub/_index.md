@@ -134,6 +134,7 @@ header:
 <font size=2>
 
 
+1. Tianben Wang, Zhishen Wang, Xiantao Liu, Leye Wang, Yuanqing Zheng, Jin Hu, Tao Gu, and Daqing Zhang, OmniResMonitor: Omnimonitoring of Human Respiration using Acoustic Multipath Reflection, IEEE Transactions on Mobile Computing (TMC), 2023.
 1. Tianben Wang, Zhangben Li, Xiantao Liu, Tao Gu, HongHao Yan, Jing Lv, Jin Hu, and Daqing Zhang. MultiResp: Robust Respiration Monitoring for Multiple Users using Acoustic Signal, IEEE Transactions on Mobile Computing (TMC), 2023.
 1. Lei Xie, Zihao Chu, Yi Li, Tao Gu, Yanling Bu, Chuyu Wang, and Sanglu Lu. Industrial Vision: Rectifying Millimeter-Level Edge Deviation in Industrial Internet of Things with Camera-based Edge Device, IEEE Transactions on Mobile Computing (TMC), 2023.
 1. Yao Wang, Tao Gu, Tom Luan, Minjie Lyu, and Yue Li. HeartPrint: Exploring a Heartbeat-based Multi-user Authentication with Single mmWave Radar, IEEE Internet of Things Journal (IoT-J), 2022.
