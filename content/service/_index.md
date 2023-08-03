@@ -37,6 +37,7 @@ header:
 
 **Conference TPC Membership**
 
+- MobiCom 2024
 - IPSN 2022
 - SenSys 2021
 - IoTDI 2020
