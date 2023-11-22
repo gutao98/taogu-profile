@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tao Gu
+title: Tao Gu 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: "Email: firstname dot lastname AT mq.edu.au <br/> Phone: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW 2109, Australia"
+role: "<span style=\"color: #000000;\">Professor in IoT, IEEE Fellow</span> <br/> Email: firstname dot lastname AT mq.edu.au <br/> Phone: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW 2109, Australia"
 
 
 # Organizations/Affiliations
