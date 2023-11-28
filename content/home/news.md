@@ -72,6 +72,9 @@ subtitle = ""
  
 +++
 
+
+**11/2023:** We have one paper accepted at **MobiCom 2024**. Congratulations to **Shiming**!
+
 **11/2023:** Congratulations to **Prof. Tao Gu** received **the 2023 Research Excellence Awards**！
 
 **10/2023:** **Yu** and **Ningning** will join Macquarie University as a Lecturer! Congratulations to both and well done!
