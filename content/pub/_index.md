@@ -137,6 +137,8 @@ header:
 <font size=2>
 
 
+
+1. Jia Zhang, Rui Xi, Yuan He, Yimiao Sun, Xiuzhen Guo, Weiguo Wang, Xin Na, Yunhao Liu, Zhenguo Shi, and Tao Gu. A Survey of mmWave-Based Human Sensing: Technology, Platforms and Applications, IEEE Communications Surveys & Tutorials (COMST), 2023.  
 1. Lei Wang, Xingwei Wang, Dalin Zhang, Xiaolei Ma, Yong Zhang, Haipeng Dai, Chenren Xu, Zhijun Li, and Tao Gu. Knowing Your Heart Condition Anytime: User-Independent ECG Measurement Using Commercial Mobile Phones, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Volume 7, Issue 3, Article No.: 131, pp 1–28, 27 September 2023.
 1. Tianben Wang, Zhangben Li, Xiantao Liu, Boqin Liu, Honghao Yan, Shengjie Li, Zhongyu Ma, Jin Hu, Daqing Zhang, and Tao Gu. AudioGuard: Omnidirectional Indoor Intrusion Detection using Audio Device, ACM Transactions on Internet of Things (TIOT), 2023.
 1. Li Zhang, Jinping Niu, Yiyao Wang, Gaojie Chen, Tao Gu, and Yanyan Li. Energy-Efficient Task Offloading in RIS-Aided HetNets with Wireless Backhaul, IEEE Communications Letters, 2023.
