@@ -137,7 +137,8 @@ header:
 <font size=2>
 
 
-
+1. Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. FLoRa+: Energy-Efficient, Reliable, Beamforming-Assisted, and Secure Over-The-Air Firmware Update in LoRa Networks, ACM Transactions on Sensor Networks, 2024.
+1. Yao Wang, Tao Gu, and Haibin Zhang. Simultaneous Authentication of Multiple Users Using a Single mmWave Radar, IEEE Internet of Things Journal (IoT-J), 2024.
 1. Jia Zhang, Rui Xi, Yuan He, Yimiao Sun, Xiuzhen Guo, Weiguo Wang, Xin Na, Yunhao Liu, Zhenguo Shi, and Tao Gu. A Survey of mmWave-Based Human Sensing: Technology, Platforms and Applications, IEEE Communications Surveys & Tutorials (COMST), 2023.  
 1. Lei Wang, Xingwei Wang, Dalin Zhang, Xiaolei Ma, Yong Zhang, Haipeng Dai, Chenren Xu, Zhijun Li, and Tao Gu. Knowing Your Heart Condition Anytime: User-Independent ECG Measurement Using Commercial Mobile Phones, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), Volume 7, Issue 3, Article No.: 131, pp 1–28, 27 September 2023.
 1. Tianben Wang, Zhangben Li, Xiantao Liu, Boqin Liu, Honghao Yan, Shengjie Li, Zhongyu Ma, Jin Hu, Daqing Zhang, and Tao Gu. AudioGuard: Omnidirectional Indoor Intrusion Detection using Audio Device, ACM Transactions on Internet of Things (TIOT), 2023.
