@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Professional Service"
+  name = "Service"
   url = "service/"
   weight = 30
 
