@@ -115,7 +115,7 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 
 -->
 
-The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Embedded AI, Mobile Computing, Ubiquitous Computing, and Big Data Analytics. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensiing, Wireless Communication, Edge and Embedded AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
 
 
