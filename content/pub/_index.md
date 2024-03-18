@@ -135,14 +135,13 @@ header:
 <font size=5> **Refereed Journal Papers** </font>
 
 <font size=2>
-1. Weiling Zheng, Yu Zhang, Landu Jiang, Dian Zhang, and Tao Gu.  MeshID: Few-shot Finger Gesture Based User Identification using Orthogonal Signal Interference, MDPI Sensors, 2024.
-1. 	Yi Guo, Jinping Niu, Xiangwei Zhou, Tao Gu, Yanyan Li, and Dingyi Fang. Power-Efficient Transmissions in LoRa Uplink Systems, IEEE Transactions on Vehicular Technology (TVT), 2024.
-1. 	Jiuwu Zhang, Xiulong Liu, Sheng Chen, Xinyu Tong, Zeyu Deng, Tao Gu, and Keqiu Li. Towards Robust RFID Localization via Mobile Robot, IEEE/ACM Transactions on Networking (ToN), 2024.
-2. 	Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, and Hui Li. Exploring a Secure Device Pairing Using Human Body as a Conductor, IEEE Transactions on Mobile Computing (TMC), 2024.
-3. 	Xianjin Xia, Ningning Hou, Yuanqing Zheng, and Tao Gu. HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication, IEEE/ACM Transactions on Networking (ToN), 2024. 
-4. 	Xiulong Liu, Bojun Zhang, Lizhang Wang, Sheng Chen, Xin Xie, Xinyu Tong, Tao Gu, and Keqiu Li. Fine-grained Recognition of Manipulation Activities on Objects via Multi-modal Sensing, IEEE Transactions on Mobile Computing (TMC), 9 Feb 2024.
-
-
+  
+1. Weiling Zheng, Yu Zhang, Landu Jiang, Dian Zhang, and Tao Gu. MeshID: Few-shot Finger Gesture Based User Identification using Orthogonal Signal Interference, Sensors 2024.
+1. Yi Guo, Jinping Niu, Xiangwei Zhou, Tao Gu, Yanyan Li, and Dingyi Fang. Power-Efficient Transmissions in LoRa Uplink Systems, IEEE Transactions on Vehicular Technology (TVT), 2024.
+1. Jiuwu Zhang, Xiulong Liu, Sheng Chen, Xinyu Tong, Zeyu Deng, Tao Gu, and Keqiu Li. Towards Robust RFID Localization via Mobile Robot, IEEE/ACM Transactions on Networking (ToN), 2024.
+1. Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, and Hui Li. Exploring a Secure Device Pairing Using Human Body as a Conductor, IEEE Transactions on Mobile Computing (TMC), 2024.
+1. Xianjin Xia, Ningning Hou, Yuanqing Zheng, and Tao Gu. HyLink: Towards High Throughput LPWANs with LoRa Compatible Communication, IEEE/ACM Transactions on Networking (ToN), 2024. 
+1. Xiulong Liu, Bojun Zhang, Lizhang Wang, Sheng Chen, Xin Xie, Xinyu Tong, Tao Gu, and Keqiu Li. Fine-grained Recognition of Manipulation Activities on Objects via Multi-modal Sensing, IEEE Transactions on Mobile Computing (TMC), 9 Feb 2024.
 1. Yao Wang, Tao Gu, and Haibin Zhang. Simultaneous Authentication of Multiple Users Using a Single mmWave Radar, IEEE Internet of Things Journal (IoT-J), 25 January 2024. [**PDF**](paper/24-iotj-Simultaneous_Authentication_of_Multiple_Users.pdf)
 1. Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. FLoRa+: Energy-Efficient, Reliable, Beamforming-Assisted, and Secure Over-The-Air Firmware Update in LoRa Networks, ACM Transactions on Sensor Networks, 22 January 2024. [**PDF**](paper/24-tosn-FLoRa+.pdf)
 
