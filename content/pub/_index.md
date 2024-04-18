@@ -135,7 +135,9 @@ header:
 <font size=5> **Refereed Journal Papers** </font>
 
 <font size=2>
-  
+
+
+1. Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024.
 1. Weiling Zheng, Yu Zhang, Landu Jiang, Dian Zhang, and Tao Gu. MeshID: Few-shot Finger Gesture Based User Identification using Orthogonal Signal Interference, Sensors 2024.
 1. Yi Guo, Jinping Niu, Xiangwei Zhou, Tao Gu, Yanyan Li, and Dingyi Fang. Power-Efficient Transmissions in LoRa Uplink Systems, IEEE Transactions on Vehicular Technology (TVT), 2024.
 1. Jiuwu Zhang, Xiulong Liu, Sheng Chen, Xinyu Tong, Zeyu Deng, Tao Gu, and Keqiu Li. Towards Robust RFID Localization via Mobile Robot, IEEE/ACM Transactions on Networking (ToN), 2024.

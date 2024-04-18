@@ -72,7 +72,11 @@ subtitle = ""
  
 +++
 
+**03/2024:** **The ARC Research Hub for Future Digital Manufacturing** was funded by Australian Research Council. The total investment is **AU$10.64 million**.
+
 **02/2024:** I was invited to serve the **Editor of IEEE Transactions on Wireless Communications**.
+
+**12/2023:** Our **Solving Plastic Waste Cooperative Research Centre bid** is successfully funded by the Australian Federal Government. The total investment is **AU$140.6 million**.
 
 **11/2023:** We have one paper accepted at **MobiCom 2024**. Congratulations to **Shiming**!
 
