@@ -72,6 +72,10 @@ subtitle = ""
  
 +++
 
+
+**06/2024:** **Our ARC Research Hub in the Internet of Things for Water IH240100014** was successfully funded by Australian Research Council. The total investment is **AU$10 million**.
+
+
 **03/2024:** **The ARC Research Hub for Future Digital Manufacturing** was funded by Australian Research Council. The total investment is **AU$10.64 million**.
 
 **02/2024:** I was invited to serve the **Editor of IEEE Transactions on Wireless Communications**.
