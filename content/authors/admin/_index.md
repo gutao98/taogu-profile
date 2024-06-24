@@ -124,39 +124,18 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 # Research Projects
 
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/crc.svg">
-            </div>
-            <div class="col-xl-10" >
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="https://criticalsupplychaincrc.com/" style="color:#32B7D5;">Critical Supply Chain CRC</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px;">Critical Supply Chain CRC will deliver an innovation ecosystem supporting Australia’s economic future through effective and highly competitive domestic and export supply chains. It is critical that all stakeholders come together to provide demand led end-to-end supply chain solutions.</p>
-                </div>
-<!--              <p style="font-size:12pt"></p>-->
-            </div>
-</div>
-
-
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/health.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Sensing for Digital Health</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Contactless vital sign and health monitoring, non-invasive monitoring of blood pressure, sleep stage, heartbeat, and respiration for digital health applications.</p>
-                </div>
-              <p style="font-size:14pt;">
-                <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
-                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
-                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. <b><a href="https://www.youtube.com/watch?v=cbhWqF5w70M"> [Demo Video]</a></b>  </br>
-                <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>
-<!--                <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>-->
-              </p>
-            </div>
-</div>
-
+<!--<div class="col-xl-auto row">-->
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="150" height="150" src="../../icon/crc.svg">-->
+<!--            </div>-->
+<!--            <div class="col-xl-10" >-->
+<!--                <div style="background-color:#1A2B3D;">-->
+<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="https://criticalsupplychaincrc.com/" style="color:#32B7D5;">Critical Supply Chain CRC</a></h5>-->
+<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px;">Critical Supply Chain CRC will deliver an innovation ecosystem supporting Australia’s economic future through effective and highly competitive domestic and export supply chains. It is critical that all stakeholders come together to provide demand led end-to-end supply chain solutions.</p>-->
+<!--                </div>-->
+<!--<!--              <p style="font-size:12pt"></p>-->-->
+<!--            </div>-->
+<!--</div>-->
 
 
 
@@ -177,6 +156,32 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
               </p>
             </div>
 </div>
+
+
+
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2" style="margin-top:20px">
+                <img class="center" width="150" height="150" src="../../icon/health.svg">
+            </div>
+            <div class="col-xl-10">
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Sensing for Health</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Contactless vital sign and health monitoring, non-invasive monitoring of blood pressure, sleep stage, heartbeat, and respiration for digital health applications.</p>
+                </div>
+              <p style="font-size:14pt;">
+                <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
+                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
+                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. <b><a href="https://www.youtube.com/watch?v=cbhWqF5w70M"> [Demo Video]</a></b>  </br>
+                <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>
+<!--                <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>-->
+              </p>
+            </div>
+</div>
+
+
+
+
 
 
 <div class="col-xl-auto row">
