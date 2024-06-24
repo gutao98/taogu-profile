@@ -14,12 +14,14 @@ header:
 ---
 
 **Current Ph.D. Students**
-- Xi Zhang (PhD student, 04/2020 ~ present)
+- Shang Gao (PhD student, 6/2024 ~ present)
+- Xinyuan Chen (PhD student, 8/2023 ~ present)
+- Xi Zhang (PhD student, 4/2020 ~ present)
 - Weiling Zheng (PhD student, 2/2019 ~ present)
-- Yu Zhang (PhD student, 3/2017 ~ present)
 
 
 **Completions**
+- Yu Zhang (PhD student, 3/2017 ~ 3/2021)
 - Yu Zhang (PhD student, 3/2015 ~ 11/2019)
 - Yao Wang (Joint PhD student, 6/2016 ~ 2019)
 - Tianben Wang (Joint PhD student, 6/2016 ~ 2018)
