@@ -150,7 +150,6 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
               <p style="font-size:14pt">
                 <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
                 <b>[MobiCom'23]</b> Xi Zhang*, Yu Zhang*, Zhenguo Shi, and Tao Gu. <a href="">mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications</a>, in Proc. of the 29th International Conference on Mobile Computing and Networking (MobiCom 2023), Madrid, Spain, October 2-6, 2023. (* Equal Contribution)</br>   
-                
                 <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
                 <b>[MobiCom'22]</b> Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. <a href="pub/paper/Device_Pairing.pdf"> Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response</a>, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022. <b><a href="https://www.youtube.com/watch?v=Jt-X4lAZSbk"> [Demo Video]</a></b> </br>
                 
@@ -195,7 +194,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 <!--                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>-->
 <!--                <b>[SenSys'22]</b> Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. <a href="pub/paper/mmBP.pdf"> mmBP: Contact-free Millimetre-wave Radar based Approach to Blood Pressure Measurement</a>, in Proc. of the 20th ACM Conference on Embedded Networked Sensor Systems (SenSys 2022), Boston, United States, November 6-9, 2022. <b><a href="https://www.youtube.com/watch?v=cbhWqF5w70M"> [Demo Video]</a></b>  </br>-->
 <!--                <b>[UbiComp'22]</b> Lei Wang, Wei Li, Ke Sun, Fusang Zhang, Tao Gu, Chenren Xu, and Daqing Zhang. <a href=""> LoEar: Push the Range Limit of Acoustic Sensing for Vital Sign Monitoring</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2022. </br>-->
-<!--<!--                <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>-->-->
+<!--<!--                <b>[UbiComp'21]</b> Jinyi Liu, Youwei Zeng, Tao Gu, Leye Wang, and Daqing Zhang. <a href=""> WiPhone: Smartphone-based Respiration Monitoring using Ambient Reflected WiFi Signals</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021. </br>-->
 <!--              </p>-->
 <!--            </div>-->
 <!--</div>-->
@@ -255,7 +254,8 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px"> </p>
+                    <p style="font-size:14pt">
                         <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
                     </p>
                 </div>
@@ -275,7 +275,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 <!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Drone Systems</a></h5>-->
 <!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New autonomous designs, remote sensing techniques, and communications that enhance roubstness, stafy, and reilability.</p>-->
 <!--                </div>-->
-<!--<!--              <p style="font-size:12pt"></p>-->-->
+<!--<!--              <p style="font-size:12pt"></p>-->
 <!--            </div>-->
 <!--</div>-->
                         
