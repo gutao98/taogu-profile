@@ -145,7 +145,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, algorithms, and mobile systems that enable ubiquitous sensing, improve security, and build the Internet of Things.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, autonomous sensing, algorithms, sensor fusion, and innovative sensing applications. </p>
                 </div>
               <p style="font-size:14pt">
                 <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
@@ -211,7 +211,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Low-Power, Wide-Area Networks
 </a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New transmission techniqes, energy saving approaches, and network frameworks that enable low-cost long-range LoRa networks, optimize communications, and enhance network security.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New transmission techniques, energy saving approaches, network frameworks, performance optimization, security, and network deployment.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[MobiCom'24]</b> Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. <a href=""> Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</a>, in Proc. of the 30th International Conference On Mobile Computing And Networking (MobiCom 2024), Washington, D.C., USA, September 30 - October 4, 2024. </br>
@@ -232,7 +232,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge and Embedded AI</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New learning frameworks, lightweight designs, and end-to-end optimization that enpower edge computing, advance embedded systems, and facilitate on-device AI applications.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Lightweight learning models, LLM and model tuning for edge devices (smartphones), on-device machine learning, and cross-domain model learning.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[SenSys'23]</b> Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition </a>, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12-17 November 2023. </br>
@@ -253,7 +253,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px"> </p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>
                 </div>
                 <p style="font-size:14pt">
                     <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
