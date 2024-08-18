@@ -137,6 +137,7 @@ header:
 <font size=2>
 
 
+1. Ziru Niu, Hai Dong, A. K. Qin, and Tao Gu. FLrce: Resource-Efficient Federated Learning with Early-Stopping Strategy, IEEE Transactions on Mobile Computing (TMC), 2024.
 1. Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024.
 1. Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, and Hui Li. Exploring a Secure Device Pairing Using Human Body as a Conductor, IEEE Transactions on Mobile Computing (TMC), 2024. 
 1. Xiulong Liu, Bojun Zhang, Sheng Chen, Xin Xie, Xinyu Tong, Tao Gu, and Keqiu Li. A Wireless Signal Correlation Learning Framework for Accurate and Robust Multi-modal Sensing, IEEE Journal on Selected Areas in Communications (JSAC), Special issue on Positioning and Sensing Over Wireless Networks, 2024.
