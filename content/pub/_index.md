@@ -253,9 +253,9 @@ header:
 
 <font size=2>
 
-1.     Tao Gu, Zhanqing Wu, Xianping Tao, Hung Keng Pung, and Jian Lu. “Mining Emerging Patterns for Activity Recognition”, Contrast Data Mining: Concepts, Algorithms and Applications, edited by Guozhu Dong and James Bailey, Chapman & Hall/CRC, 2012.
-1.     Liang Wang, Tao Gu, Xianping Tao, Hanhua Chen, and Jian Lu. “Multi-user Activity Recognition in a Smart Home”, Activity Recognition in Pervasive Intelligent Environments, edited by L. Chen, CD. Nugent, J. Biswas, J. Hoey, Atlantis Press, 2011.
-1.     Daqing Zhang, Tao Gu and Manli Zhu. “Middleware for Smart Spaces”, Smart Technology for Ageing, Disability and Independence, edited by A. Helal, M. Mokhtari and B. Abdulrazak, John Wiley & Sons, 2007.
+1. Tao Gu, Zhanqing Wu, Xianping Tao, Hung Keng Pung, and Jian Lu. “Mining Emerging Patterns for Activity Recognition”, Contrast Data Mining: Concepts, Algorithms and Applications, edited by Guozhu Dong and James Bailey, Chapman & Hall/CRC, 2012.
+1. Liang Wang, Tao Gu, Xianping Tao, Hanhua Chen, and Jian Lu. “Multi-user Activity Recognition in a Smart Home”, Activity Recognition in Pervasive Intelligent Environments, edited by L. Chen, CD. Nugent, J. Biswas, J. Hoey, Atlantis Press, 2011.
+1. Daqing Zhang, Tao Gu and Manli Zhu. “Middleware for Smart Spaces”, Smart Technology for Ageing, Disability and Independence, edited by A. Helal, M. Mokhtari and B. Abdulrazak, John Wiley & Sons, 2007.
 
 
 </font>
