@@ -73,7 +73,9 @@ subtitle = ""
 +++
 
 
-**09/2024:** It is a great pleasure to share that my name has been again listed in **the Stanford’s World Top 2% Scientists in Networking and Telecommunications and AI**. Published by Stanford University and Elsevier on 17 September 2024.
+
+
+**09/2024:** Prof Gu has been again listed in **Stanford’s World Top 2% Scientists in Networking and Telecommunications and AI**, published by Stanford University and Elsevier on 17 September 2024.
 
 **06/2024:** **Our ARC Research Hub in the Internet of Things for Water IH240100014** was successfully funded by Australian Research Council. The total investment is **AU$10 million**.
 
