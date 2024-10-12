@@ -21,6 +21,7 @@ header:
 <font size=2>
 
 
+1.  Tao Ni, Zehua Sun, Mingda Han, Yaxiong Xie, Guohao Lan, Zhenjiang Li, Tao Gu, and Weitao Xu. REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting, in Proc. of MobiHoc 2024, Athens, Greece, 14–17 October 2024.
 1. Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, 30 September–4 October 2024.
 1. Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, 30 September–4 October 2024.
 1. Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12–17 November 2023. [**PDF**](paper/23-sensys-xgait.pdf)
