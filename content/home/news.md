@@ -75,6 +75,8 @@ subtitle = ""
 
 **12/2024:** We have one paper accepted at **MobiCom 2025**. Congratulations to **Ruonan**!
 
+**11/2024:** We secured an **Australian Research Council (ARC) Linkage Project Grant** with a total funding amount of **AU$509,991**.
+
 **09/2024:** Prof Gu has been again listed in **Stanford’s World Top 2% Scientists in Networking and Telecommunications and AI**, published by Stanford University and Elsevier on 17 September 2024.
 
 **06/2024:** **Our ARC Research Hub in the Internet of Things for Water IH240100014** was successfully funded by Australian Research Council. The total investment is **AU$10 million**.
@@ -82,7 +84,7 @@ subtitle = ""
 
 **03/2024:** **The ARC Research Hub for Future Digital Manufacturing** was funded by Australian Research Council. The total investment is **AU$10.64 million**.
 
-**02/2024:** I was invited to serve the **Editor of IEEE Transactions on Wireless Communications**.
+**02/2024:** Prof Gu was invited to serve the **Editor of IEEE Transactions on Wireless Communications**.
 
 **12/2023:** Our **Solving Plastic Waste Cooperative Research Centre bid** is successfully funded by the Australian Federal Government. The total investment is **AU$140.6 million**.
 
@@ -114,9 +116,9 @@ subtitle = ""
 
 **12/2021:** We have two papers accepted at **INFOCOM 2022**. 
 
-**12/2021:** I will give a keynote speech at **ADHOCNETS 2021** on 6 December 2021.
+**12/2021:** Prof Gu will give a keynote speech at **ADHOCNETS 2021** on 6 December 2021.
 
-**11/2021:** It is my great pleasure to serve as a **General Co-Chair of ACM MobiCom 2022** to be held in **Sydney** next year.
+**11/2021:** It is the great pleasure to serve as a **General Co-Chair of ACM MobiCom 2022** to be held in **Sydney** next year.
 
 **07/2021:** We have two papers accepted by **ACM/IEEE ToN**. Congratulations to **Yu** and **Xianjin**!
 
@@ -140,9 +142,9 @@ Award** for outstanding research performance in 2020!
 
 **09/2020:** Several month’s lockdown in Melbourne can really drive people mad, but nothing could encourage people better than sharing good news. Congratulation to **Yu** for his **SenSys 2020** paper! I believe this is the world-first on-device deep learning framework with both training and inference that is fully enabled on commercial smartphones. 
 
-**06/2020:** I was invited to serve as the **TPC Chair of IoTDI 2021**. 
+**06/2020:** Prof Gu was invited to serve as the **TPC Chair of IoTDI 2021**. 
 
-**05/2020:** I was appointed as an Editor of **IMWUT**. 
+**05/2020:** Prof Gu was appointed as an Editor of **IMWUT**. 
 
 **02/2020:** We have two papers accepted by **IPSN 2020**. Congratulations to **Yu** and **Yuxiang**! 
 
@@ -154,7 +156,7 @@ Award** for outstanding research performance in 2020!
 
 **04/2019:** One paper is accepted by **ACM/IEEE ToN**. Congratulations to **Xianjin**!
 
-**01/2019:** My **ARC DP** grant application on decimetre-level indoor positioning which has a total funding amount of AUD280,000 is successful.
+**01/2019:** Our **ARC DP** grant application on decimetre-level indoor positioning which has a total funding amount of **AUD280,000** is successful.
 
 **11/2018:** Two papers are accepted by **TMC**.
 
