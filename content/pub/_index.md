@@ -20,7 +20,7 @@ header:
 
 <font size=2>
 
-
+1. Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025.
 1.  Tao Ni, Zehua Sun, Mingda Han, Yaxiong Xie, Guohao Lan, Zhenjiang Li, Tao Gu, and Weitao Xu. REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting, in Proc. of MobiHoc 2024, Athens, Greece, 14–17 October 2024.
 1. Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, 30 September–4 October 2024.
 1. Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, 30 September–4 October 2024.

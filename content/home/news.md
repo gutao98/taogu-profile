@@ -73,7 +73,7 @@ subtitle = ""
 +++
 
 
-
+**12/2024:** We have one paper accepted at **MobiCom 2025**. Congratulations to **Ruonan**!
 
 **09/2024:** Prof Gu has been again listed in **Stanford’s World Top 2% Scientists in Networking and Telecommunications and AI**, published by Stanford University and Elsevier on 17 September 2024.
 
