@@ -115,7 +115,7 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 
 -->
 
-The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge and Embedded AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
 
 
 
@@ -232,7 +232,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge and Embedded AI</a></h5>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge AI and Embodied AI</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Lightweight learning models, LLM and model tuning for edge devices (smartphones), on-device machine learning, and cross-domain model learning.</p>
                 </div>
               <p style="font-size:14pt">
@@ -248,20 +248,20 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/lora.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>
-                </div>
-                <p style="font-size:14pt">
-                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
-                </p>
-            </div>
-</div>
+<!--<div class="col-xl-auto row">-->
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="150" height="150" src="../../icon/lora.svg">-->
+<!--            </div>-->
+<!--            <div class="col-xl-10">-->
+<!--                <div style="background-color:#1A2B3D;">-->
+<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>-->
+<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>-->
+<!--                </div>-->
+<!--                <p style="font-size:14pt">-->
+<!--                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>-->
+<!--                </p>-->
+<!--            </div>-->
+<!--</div>-->
              
 
 
