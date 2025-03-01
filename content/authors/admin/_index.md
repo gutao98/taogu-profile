@@ -115,7 +115,11 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 
 -->
 
-The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).
+
+My research aims to transform how computing systems perceive and interact with the physical world through AI-driven sensing. By developing advanced embedded and embodied AI technologies, I strive to create intelligent, autonomous systems capable of understanding and responding to complex physical environments in real-time. My current research interests include Mobile and Ubiquitous Computing, Embedded, Edge, and Embodied AI, AI-driven Sensing and Communication, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.
+
+
+<!--The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).-->
 
 
 
@@ -144,8 +148,8 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Wireless Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, autonomous sensing, algorithms, sensor fusion, and innovative sensing applications. </p>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">AI-driven Wireless Sensing</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, fusion algorithms, and novel AI-driven sensing applications. </p>
                 </div>
               <p style="font-size:14pt">
                 <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
