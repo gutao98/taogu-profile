@@ -148,7 +148,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">AI-driven Wireless Sensing</a></h5>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">AI-driven Sensing</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, fusion algorithms, and novel AI-driven sensing applications. </p>
                 </div>
               <p style="font-size:14pt">
@@ -205,6 +205,28 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
+<div class="col-xl-auto row">
+            <div class="col-xl-2" style="margin-top:20px">
+                <img class="center" width="150" height="150" src="../../icon/ai.svg">
+            </div>
+            <div class="col-xl-10">
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Embedded, Edge, and Embodied AI</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Model fine-tuning for LLM, VLM, VLA, lightweight and resource-efficient model design, multimodal model training, cross-domain model transfer.</p>
+                </div>
+              <p style="font-size:14pt">
+                <b>[MobiCom'24]</b> Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. <a href=""> Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</a>, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, September 30–October 4, 2024. </br>
+                <b>[SenSys'23]</b> Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition </a>, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12-17 November 2023. </br>
+                <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
+                <b>[SenSys'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_3_SenSys_2020.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. <b><a href="https://www.youtube.com/watch?v=eYIlCkyCm0w&list=PL6jLuiS6wP5ZwAn_KFmmVa3llApWWLxOv&index=3"> [Demo Video]</a> </b>  </br>
+<!--                                <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>-->
+<!--                <b>[IPSN'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_2_IPSN_2020.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.   </br>-->
+              </p>
+            </div>
+</div>
+
+
+
 
 
 <div class="col-xl-auto row">
@@ -230,42 +252,22 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
+
+
 <div class="col-xl-auto row">
             <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/ai.svg">
+                <img class="center" width="150" height="150" src="../../icon/lora.svg">
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge AI and Embodied AI</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Lightweight learning models, LLM and model tuning for edge devices (smartphones), on-device machine learning, and cross-domain model learning.</p>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>
                 </div>
-              <p style="font-size:14pt">
-                <b>[MobiCom'24]</b> Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. <a href=""> Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</a>, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, September 30–October 4, 2024. </br>
-                <b>[SenSys'23]</b> Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition </a>, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12-17 November 2023. </br>
-                <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
-                <b>[SenSys'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_3_SenSys_2020.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. <b><a href="https://www.youtube.com/watch?v=eYIlCkyCm0w&list=PL6jLuiS6wP5ZwAn_KFmmVa3llApWWLxOv&index=3"> [Demo Video]</a> </b>  </br>
-<!--                                <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>-->
-<!--                <b>[IPSN'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_2_IPSN_2020.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.   </br>-->
-              </p>
+                <p style="font-size:14pt">
+                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
+                </p>
             </div>
 </div>
-
-
-
-<!--<div class="col-xl-auto row">-->
-<!--            <div class="col-xl-2" style="margin-top:20px">-->
-<!--                <img class="center" width="150" height="150" src="../../icon/lora.svg">-->
-<!--            </div>-->
-<!--            <div class="col-xl-10">-->
-<!--                <div style="background-color:#1A2B3D;">-->
-<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>-->
-<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>-->
-<!--                </div>-->
-<!--                <p style="font-size:14pt">-->
-<!--                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>-->
-<!--                </p>-->
-<!--            </div>-->
-<!--</div>-->
              
 
 
