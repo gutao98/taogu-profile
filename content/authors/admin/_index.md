@@ -116,7 +116,7 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 -->
 
 
-My research aims to transform how computing systems perceive and interact with the physical world through AI-driven sensing. By developing advanced embedded and embodied AI technologies, I strive to create intelligent, autonomous systems capable of understanding and responding to complex physical environments in real-time. My current research interests include Mobile and Ubiquitous Computing, Embedded, Edge, and Embodied AI, AI-driven Sensing and Communication, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.
+My research aims to transform how computing systems perceive and interact with the physical world through AI-driven sensing. By developing advanced edge, embedded and embodied AI technologies, I strive to create intelligent, autonomous systems capable of understanding and responding to complex physical environments in real-time. My current research interests include Edge, Embedded, and Embodied AI, AI-driven Sensing, Mobile and Ubiquitous Computing, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.
 
 
 <!--The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).-->
@@ -142,6 +142,30 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 <!--</div>-->
 
 
+
+<div class="col-xl-auto row">
+            <div class="col-xl-2" style="margin-top:20px">
+                <img class="center" width="150" height="150" src="../../icon/ai.svg">
+            </div>
+            <div class="col-xl-10">
+                <div style="background-color:#1A2B3D;">
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge, Embedded, and Embodied AI</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Foundation model design, model fine-tuning and re-training, lightweight and resource-efficient model design, multimodal model training, cross-domain model transfer.</p>
+                </div>
+              <p style="font-size:14pt">
+                <b>[MobiCom'24]</b> Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. <a href=""> Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</a>, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, September 30–October 4, 2024. </br>
+                <b>[SenSys'23]</b> Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition </a>, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12-17 November 2023. </br>
+                <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
+                <b>[SenSys'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_3_SenSys_2020.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. <b><a href="https://www.youtube.com/watch?v=eYIlCkyCm0w&list=PL6jLuiS6wP5ZwAn_KFmmVa3llApWWLxOv&index=3"> [Demo Video]</a> </b>  </br>
+<!--                                <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>-->
+<!--                <b>[IPSN'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_2_IPSN_2020.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.   </br>-->
+              </p>
+            </div>
+</div>
+
+
+
+
 <div class="col-xl-auto row">
             <div class="col-xl-2" style="margin-top:20px">
                 <img class="center" width="150" height="150" src="../../icon/sensing.svg">
@@ -149,7 +173,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">AI-driven Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, fusion algorithms, and novel AI-driven sensing applications. </p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, fusion algorithms, and novel AI-driven sensing systems powered by edge/embedded AI models. </p>
                 </div>
               <p style="font-size:14pt">
                 <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
@@ -204,26 +228,6 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
-
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/ai.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Embedded, Edge, and Embodied AI</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Model fine-tuning for LLM, VLM, VLA, lightweight and resource-efficient model design, multimodal model training, cross-domain model transfer.</p>
-                </div>
-              <p style="font-size:14pt">
-                <b>[MobiCom'24]</b> Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. <a href=""> Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices</a>, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, September 30–October 4, 2024. </br>
-                <b>[SenSys'23]</b> Huanqi Yang, Mingda Han, Mingda Jia, Zehua Sun, Pengfei Hu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> XGait: Cross-Modal Translation via Deep Generative Sensing for RF-based Gait Recognition </a>, in Proc. of the 21st ACM Conference on Embedded Networked Sensor Systems (SenSys 2023), Istanbul, Turkey, 12-17 November 2023. </br>
-                <b>[ToN'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdldroid_ton.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, IEEE/ACM Transactions on Networking (ToN), 2021. </br>
-                <b>[SenSys'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_3_SenSys_2020.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, in Proc. of the 18th ACM Conference on Embedded Networked Sensor Systems (SenSys 2020), Yokohama, Japan, November 16-19, 2020. <b><a href="https://www.youtube.com/watch?v=eYIlCkyCm0w&list=PL6jLuiS6wP5ZwAn_KFmmVa3llApWWLxOv&index=3"> [Demo Video]</a> </b>  </br>
-<!--                                <b>[TMC'21]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/mdl_tmc.pdf"> MDLdroidLite: a Release-and-Inhibit Control Approach to Resource-Efficient Deep Neural Networks on Mobile Devices</a>, IEEE Transactions on Mobile Computing (TMC), 2021.  </br>-->
-<!--                <b>[IPSN'20]</b> Yu Zhang, Tao Gu, and Xi Zhang. <a href="pub/paper/Paper_2_IPSN_2020.pdf"> MDLdroid: a ChainSGD-reduce Approach to Mobile Deep Learning for Personal Mobile Sensing</a>, in Proc. of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2020), Sydney, Australia, April 21-24, 2020.   </br>-->
-              </p>
-            </div>
-</div>
 
 
 
