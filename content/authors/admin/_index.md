@@ -239,15 +239,15 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Low-Power, Wide-Area Networks
-</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New transmission techniques, energy saving approaches, network frameworks, performance optimization, security, and network deployment.</p>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Wireless Networks</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground integrated networks, low-power wide-area networks, integration of sensing, communication and computing.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[MobiCom'25]</b> Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. <a href="">From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025. </br>
                 <b>[MobiCom'24]</b> Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. <a href=""> Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</a>, in Proc. of the 30th International Conference On Mobile Computing And Networking (MobiCom 2024), Washington, D.C., USA, September 30 - October 4, 2024. </br>
+                <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
                 <b>[IPSN'23]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks</a>, in Proc. of the 22nd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2023), San Antonio, Texas, May 9-12, 2023. </br>
-                <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>
+<!--                <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>-->
 <!--                <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>-->
 <!--                <b>[INFOCOM'20]</b> Xianjin Xia, Yuanqing Zheng, and Tao Gu. <a href="pub/paper/LiteNap.pdf"> LiteNap: Downclocking LoRa Reception</a>, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. </br>-->
               </p>
@@ -258,21 +258,21 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/lora.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>
-                </div>
-                <p style="font-size:14pt">
-                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>
-                </p>
-            </div>
-</div>
-             
+<!--<div class="col-xl-auto row">-->
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="150" height="150" src="../../icon/lora.svg">-->
+<!--            </div>-->
+<!--            <div class="col-xl-10">-->
+<!--                <div style="background-color:#1A2B3D;">-->
+<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="" style="color:#32B7D5">Integration of Sensing, Communication and Computing</a></h5>-->
+<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Theoretical model and analysis, channel measurement and modelling, waveform design, resource management, millimeter wave/THz technologies, centimeter-level positioning and high precision detection.  </p>-->
+<!--                </div>-->
+<!--                <p style="font-size:14pt">-->
+<!--                    <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 2024. </br>-->
+<!--                </p>-->
+<!--            </div>-->
+<!--</div>-->
+<!--             -->
 
 
 
