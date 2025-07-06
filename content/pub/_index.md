@@ -20,6 +20,8 @@ header:
 
 <font size=2>
 
+1. Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, 4–8 November 2025.
+1. Gonglong Chen, Jiamei Lv, Kejiang Ye, Tao Gu, and Chenzhong Xu. Scalable and Fast Inference Serving via Hybrid Communication Scheduling on Heterogeneous Networks, IEEE Cluster 2025, Edinburgh, United Kingdom, 2–5 September 2025. 
 1. Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025.
 1.  Tao Ni, Zehua Sun, Mingda Han, Yaxiong Xie, Guohao Lan, Zhenjiang Li, Tao Gu, and Weitao Xu. REHSense: Towards Battery-Free Wireless Sensing via Radio Frequency Energy Harvesting, in Proc. of MobiHoc 2024, Athens, Greece, 14–17 October 2024.
 1. Kai Huang, Xiangyu Yin, Tao Gu, and Wei Gao. Perceptual-Centric Image Super-Resolution using Heterogeneous Processors on Mobile Devices, in Proc. of the 30th International Conference on Mobile Computing and Networking (MobiCom 2024), Washington, D.C., USA, 30 September–4 October 2024.
