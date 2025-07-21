@@ -20,6 +20,7 @@ header:
 
 <font size=2>
 
+
 1. Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, 4–8 November 2025.
 1. Gonglong Chen, Jiamei Lv, Kejiang Ye, Tao Gu, and Chenzhong Xu. Scalable and Fast Inference Serving via Hybrid Communication Scheduling on Heterogeneous Networks, IEEE Cluster 2025, Edinburgh, United Kingdom, 2–5 September 2025. 
 1. Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025.
@@ -142,7 +143,8 @@ header:
 <font size=2>
 
 
-
+1. Lei Wang, Xingwei Wang, Xi Zhang, Xiaolei Ma, Yu Zhang, Fusang Zhang, Tao Gu, and Haipeng Dai. AccCall: Enhancing Real-Time Phone Call Quality with Smartphone’s Built-in Accelerometer, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025.
+1. Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. Chirp-level Information-based Collaborative Key Generation for LoRa Networks via Perturbed Compressed Sensing, IEEE Transactions on Mobile Computing (TMC), 2025.
 1. Ziru Niu, Hai Dong, A. K. Qin, and Tao Gu. FLrce: Resource-Efficient Federated Learning with Early-Stopping Strategy, IEEE Transactions on Mobile Computing (TMC), pp. 1–16, 21 August 2024.
 1. Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems, IEEE Transactions on Wireless Communication, 5 August 2024.
 1. Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, and Hui Li. Exploring a Secure Device Pairing Using Human Body as a Conductor, IEEE Transactions on Mobile Computing (TMC), 2024.
