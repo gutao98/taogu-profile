@@ -143,6 +143,7 @@ header:
 <font size=2>
 
 
+1. Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. mmBP+: Contact-free Blood Pressure Measurement using Millimeter-wave Radar, IEEE Transactions on Mobile Computing (TMC), 2025.
 1. Lei Wang, Xingwei Wang, Xi Zhang, Xiaolei Ma, Yu Zhang, Fusang Zhang, Tao Gu, and Haipeng Dai. AccCall: Enhancing Real-Time Phone Call Quality with Smartphone’s Built-in Accelerometer, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025.
 1. Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. Chirp-level Information-based Collaborative Key Generation for LoRa Networks via Perturbed Compressed Sensing, IEEE Transactions on Mobile Computing (TMC), 2025.
 1. Ziru Niu, Hai Dong, A. K. Qin, and Tao Gu. FLrce: Resource-Efficient Federated Learning with Early-Stopping Strategy, IEEE Transactions on Mobile Computing (TMC), pp. 1–16, 21 August 2024.
