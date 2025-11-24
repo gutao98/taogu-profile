@@ -20,7 +20,7 @@ header:
 
 <font size=2>
 
-
+1. Zhedong Zhang, Liang Li, Gaoxiang Cong, Chunshan Liu, Yuhan Gao, Xiaowan Wang, Tao Gu, and Yuankai Qi. InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing, in Proc. of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20–27 January 2026.
 1. Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, 4–8 November 2025.
 1. Gonglong Chen, Jiamei Lv, Kejiang Ye, Tao Gu, and Chenzhong Xu. Scalable and Fast Inference Serving via Hybrid Communication Scheduling on Heterogeneous Networks, IEEE Cluster 2025, Edinburgh, United Kingdom, 2–5 September 2025. 
 1. Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025.
