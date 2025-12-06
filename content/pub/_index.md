@@ -143,6 +143,7 @@ header:
 <font size=2>
 
 
+1. Ziru Niu, Hai Dong, A. K. Qin, Tao Gu, and Pengcheng Zhang. Energy and Memory-Efficient Federated Learning with Ordered Layer Freezing and Tensor Operation Approximation, IEEE Transactions on Mobile Computing (TMC), 2025.
 1. Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Jiaxi Zhou, Weicai Li, and Tao Gu. Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism, IEEE Journal on Selected Areas in Communications (JSAC), 2025.
 1. Zhenguo Shi, Tao Gu, Yu Zhang, and Xi Zhang. mmBP+: Contact-free Blood Pressure Measurement using Millimeter-wave Radar, IEEE Transactions on Mobile Computing (TMC), 2025.
 1. Lei Wang, Xingwei Wang, Xi Zhang, Xiaolei Ma, Yu Zhang, Fusang Zhang, Tao Gu, and Haipeng Dai. AccCall: Enhancing Real-Time Phone Call Quality with Smartphone’s Built-in Accelerometer, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2025.
