@@ -73,7 +73,15 @@ subtitle = ""
 +++
 
 
-**12/2024:** We have one paper accepted at **MobiCom 2025**. Congratulations to **Ruonan**!
+**01/2026:** We have one paper accepted at **ICLR 2026**. Congratulations to **Yao**!
+
+**12/2025:** We have one paper accepted at **INFOCOM 2026**. Congratulations to **Gonglong**.
+
+**11/2025:** We have one paper accepted at **AAAI 2026**.
+
+**09/2025:** Congratulations to **Jingbo** for his ISAC paper accepted by **JSAC**. 
+
+**01/2025:** We have two paper accepted at **MobiCom 2025**. Congratulations to **Ruonan** and **Zehua**!
 
 **11/2024:** We secured an **Australian Research Council (ARC) Linkage Project Grant** with a total funding amount of **AU$509,991**.
 

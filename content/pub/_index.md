@@ -21,6 +21,7 @@ header:
 <font size=2>
 
 
+1. Yufei Chen, Yao Wang, Haibin Zhang, and Tao Gu. Fine-Grained Privacy Extraction from Retrieval-Augmented Generation Systems by Exploiting Knowledge Asymmetry, in Proc. of the Fourteenth International Conference on Learning Representations (ICLR 2026), Rio de Janeiro, Brazil, April 23-27, 2026.
 1. Gonglong Chen, Jiacong Li, Yuxin Xu, Baiyan Ke, Zhitao Lan, Wenxing Ge, Haiying Shen, Jiamei Lv, Tao Gu, Cheng-Zhong Xu, and Kejiang Ye. Enabling Fast and Stable Service Mesh Communication via Piggyback Layer-7 Traffic Control on Programmable Switches, in Proc. of INFOCOM 2026, Tokyo, Japan, 18–21 May 2026.
 1. Zhedong Zhang, Liang Li, Gaoxiang Cong, Chunshan Liu, Yuhan Gao, Xiaowan Wang, Tao Gu, and Yuankai Qi. InstructDubber: Instruction-based Alignment for Zero-shot Movie Dubbing, in Proc. of the 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026), Singapore, 20–27 January 2026.
 1. Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, 4–8 November 2025.
