@@ -115,7 +115,7 @@ If you are excited by ambitious research problems and wish to collaborate in a h
 <!---->
 <!---->
 <!--We offer full PhD scholarship and competitive salaries and provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au). -->
-<!--<!--We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. -->-->
+<!--<!--We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. -->
 
 
 
