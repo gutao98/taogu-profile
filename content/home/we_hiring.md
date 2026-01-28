@@ -71,43 +71,51 @@ subtitle = ""
 
 
 
+## <font color=Blue> Prospective Postdocs, PhD Students, and Interns! </font>
 
-# <font color=Blue> New: We are hiring multiple PhD students! </font>
+We are actively seeking outstanding and self-driven researchers who aspire to make high-impact, foundational contributions to Embodied AI. Ideal candidates demonstrate a strong research track record and deep technical expertise in at least one of the following areas: **computer vision**, **machine learning**, **VLA/VLM**, **sim2real**, **control theory**, or **robotics**.
 
-In this new project, we aim to research, develop and deliver novel IoT platforms and solutions that will allow for massive connectivity of sensors, intelligent processing of data, and AIoT infrastructure support to optimise city functions and drive economic growth while improving quality of life for its citizens.
+You will have the opportunity to work at the intersection of perception, learning, and control, contributing to the core principles that enable scalable, robust, and autonomous intelligent systems.
 
-PhD student requirements:
-- Master’s degree in Computer Science or Electrical Engineering.
-- Solid theoretical foundation and strong system implementation skills.
-- Self-motivated and have strong passion in conducting high-quality research.
-- PR or Australian citizen.
-
-<!--(including 6 months industrial placement),  -->
-We offer a competitive PhD scholarship of $40,500 per year (provided by CSIRO). In addition, we provide a training allowance of $15,000 and a travel allowance of $5,000 for each student. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).
-
-Please check out [Here](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/artificial-intelligence-of-things-for-resilient-and-sustainable-smart-cities/_nocache) for more detail.
+If you are excited by ambitious research problems and wish to collaborate in a high-impact research environment, please contact me via email [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au) with your CV.
 
 
-
-# <font color=Blue> We are hiring Postdocs and PhD students! </font>
-
-The IoT research team in School of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.
-
-
-Postdoc requirements:
-- PhD degree in Computer Science.
-- Solid theoretical foundation and strong system implementation skills.
-- Excellent publication record in mobile computing, wireless networking, and ubiquitous computing.
-
-PhD student requirements:
-- Master’s degree in Computer Science or Electrical Engineering.
-- Solid theoretical foundation and strong system implementation skills.
-- IELTS above 6.5 overall and no sub-band below 6.0.
-- Self-motivated and have strong passion in conducting high-quality research.
-
-
-We offer full PhD scholarship and competitive salaries and provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au). 
-<!--We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. -->
+<!--# <font color=Blue> New: We are hiring multiple PhD students! </font>-->
+<!---->
+<!--In this new project, we aim to research, develop and deliver novel IoT platforms and solutions that will allow for massive connectivity of sensors, intelligent processing of data, and AIoT infrastructure support to optimise city functions and drive economic growth while improving quality of life for its citizens.-->
+<!---->
+<!--PhD student requirements:-->
+<!--- Master’s degree in Computer Science or Electrical Engineering.-->
+<!--- Solid theoretical foundation and strong system implementation skills.-->
+<!--- Self-motivated and have strong passion in conducting high-quality research.-->
+<!--- PR or Australian citizen.-->
+<!---->
+<!--<!--(including 6 months industrial placement),  -->-->
+<!--We offer a competitive PhD scholarship of $40,500 per year (provided by CSIRO). In addition, we provide a training allowance of $15,000 and a travel allowance of $5,000 for each student. We also provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au).-->
+<!---->
+<!--Please check out [Here](https://www.mq.edu.au/research/phd-and-research-degrees/scholarships/scholarship-search/data/artificial-intelligence-of-things-for-resilient-and-sustainable-smart-cities/_nocache) for more detail.-->
+<!---->
+<!---->
+<!---->
+<!--# <font color=Blue> We are hiring Postdocs and PhD students! </font>-->
+<!---->
+<!--The IoT research team in School of Computing at Macquarie University, Sydney, is recruiting several Postdocs and PhD students. Our research focuses on the areas of LoRaWANs, wireless sensing, mmWave radar sensing, and mobile deep learning.-->
+<!---->
+<!---->
+<!--Postdoc requirements:-->
+<!--- PhD degree in Computer Science.-->
+<!--- Solid theoretical foundation and strong system implementation skills.-->
+<!--- Excellent publication record in mobile computing, wireless networking, and ubiquitous computing.-->
+<!---->
+<!--PhD student requirements:-->
+<!--- Master’s degree in Computer Science or Electrical Engineering.-->
+<!--- Solid theoretical foundation and strong system implementation skills.-->
+<!--- IELTS above 6.5 overall and no sub-band below 6.0.-->
+<!--- Self-motivated and have strong passion in conducting high-quality research.-->
+<!---->
+<!---->
+<!--We offer full PhD scholarship and competitive salaries and provide a vibrant research environment with strong facility and team supports. You will join the team led by Prof. Gu who is internationally recognized in the areas of ubiquitous computing, mobile computing and sensor networks. The team constantly publishes in top conferences and journals. To apply, please send your CV to [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au). -->
+<!--<!--We provide the flexibility of remote start for the successful candidates, given the current situation of COVID-19. -->-->
 
 
 
