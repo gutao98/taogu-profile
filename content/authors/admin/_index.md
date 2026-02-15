@@ -158,7 +158,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge, Embedded, and Embodied AI</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Foundation model design, model fine-tuning and re-training, lightweight and resource-efficient model design, multimodal model training, cross-domain model transfer.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Foundation model, model fine-tuning, lightweight model design, VLA/multimodal LLM, robotics manipulation, planning and control.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[ICLR'26]</b> Yufei Chen, Yao Wang, Haibin Zhang, and Tao Gu. <a href=""> Fine-Grained Privacy Extraction from Retrieval-Augmented Generation Systems by Exploiting Knowledge Asymmetry</a>, in Proc. of of the Fourteenth International Conference on Learning Representations (ICLR 2026), Rio de Janeiro, Brazil, April 23-27, 2026. </br>
@@ -182,7 +182,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Intelligent Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, fusion algorithms, and novel intelligent sensing systems powered by edge/embedded AI models. </p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, sensor fusion, and AI-powered sensing systems.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[MobiCom'25]</b> Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. <a href=""> SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, November 4–8, 2025. </br>
