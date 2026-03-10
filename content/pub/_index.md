@@ -333,6 +333,14 @@ header:
 
 1. Hongwei Xie, Tao Gu, Xianping Tao, and Jian Lu. A Reliability-Augmented Particle Filter for Magnetic Fingerprinting based Indoor Localization on Smartphone, IEEE Transactions on Mobile Computing (TMC), Vol. 15, No. 8, pp. 1877–1892, August 2016. [**PDF**](paper/A%20Reliability-Augmented%20Particle%20Filter%20for%20Magnetic%20Fingerprinting%20Based%20Indoor%20Localization%20on%20Smartphone.pdf)
 
+1. Zhiwei Zhao, Wei Dong, Jiajun Bu, Tao Gu, and Chun Chen. CoCo+: Towards Energy Efficient Dissemination in Wireless Sensor Networks, Elsevier Journal on Ad Hoc Networks, Vol. 37, No. 2, pp. 404–417, February 2016.   [**PDF**](paper/CoCo+-%20Exploiting%20correlated%20core%20for%20energy%20efficient%20dissemination%20in%20wireless%20sensor%20networks.pdf)  
+
+
+1. Zhiwen Yu, Hui Wang, Bin Guo, Tao Gu, and Tao Mei, Supporting Serendipitous Social Interaction using Human Mobility Prediction, IEEE Transactions on Human-Machine Systems, Vol. 45, No. 6, pp. 811–818, December 2015.  [**PDF**](paper/Supporting%20Serendipitous%20Social%20Interaction%20Using%20Human%20Mobility%20Prediction.pdf) 
+1. Haibo Ye, Tao Gu, Xianping Tao, and Jian Lu. Infrastructure-free Floor Localization through Crowdsourcing, Journal of Computer Science and Technology (JCST), Vol. 30, No. 6, pp. 1249-1273, 2015.  [**PDF**](paper/Infrastructure-Free%20Floor%20Localization%20Through%20Crowdsourcing.pdf)
+1. Xiaorui Zhu, Xianping Tao, Tao Gu, and Jian Lu, Target-aware, Transmission Power-adaptive, and Collision-free Data Dissemination in Wireless Sensor Networks, IEEE Transactions on Wireless Communications (TWC), Vol. 14, No. 12, pp. 6911–6925, July 2015. [**PDF**](paper/Target-Aware,%20Transmission%20Power-Adaptive,%20and%20Collision-Free%20Data%20Dissemination%20in%20Wireless%20Sensor%20Networks.pdf)
+
+
 1. Kai Dong, Tao Gu, Xianping Tao, and Jian Lu. Complete Bipartite Anonymity for Location Privacy, Journal of Computer Science and Technology (JCST), Vol. 29, No. 6, pp. 1094–1110, November 2014. [**PDF**](paper/Complete%20Bipartite%20Anonymity-%20Confusing%20Anonymous%20Mobility%20Traces%20for%20Location%20Privacy.pdf)
 
 1. Liang Wang, Tao Gu, Xianping Tao, and Jian Lu. A Hierarchical Approach to Real-time Activity Recognition in Body Sensor Networks, Elsevier Journal of Pervasive and Mobile Computing (PMC), Vol. 8, No. 1, pp. 115-130, February 2012. [**PDF**](paper/A%20hierarchical%20approach%20to%20real-time%20activity%20recognition%20in%20body%20sensor%20networks.pdf)
