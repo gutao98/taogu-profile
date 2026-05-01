@@ -23,50 +23,50 @@
   url = "pub/"
   weight = 40
 
-[[main]]
-  name = "Projects"
-  url = "projects/"
-  weight = 50
+#[[main]]
+#  name = "Projects"
+#  url = "projects/"
+#  weight = 50
 
-[[main]]
-  name = "LPWANs"
-  url = "projects/#projects-sensor"
-  parent = "Projects"
-  weight = 1
+#[[main]]
+#  name = "LPWANs"
+#  url = "projects/#projects-sensor"
+#  parent = "Projects"
+#  weight = 1
 
-[[main]]
-  name = "Edge and Embedded AI"
-  url = "projects/#projects-mdl"
-  parent = "Projects"
-  weight = 2
+#[[main]]
+#  name = "Edge and Embedded AI"
+#  url = "projects/#projects-mdl"
+#  parent = "Projects"
+#  weight = 2
 
-[[main]]
-  name = "Indoor Positioning"
-  url = "projects/#projects-indoor"
-  parent = "Projects"
-  weight = 3
+#[[main]]
+#  name = "Indoor Positioning"
+#  url = "projects/#projects-indoor"
+#  parent = "Projects"
+#  weight = 3
 
-[[main]]
-  name = "Activity and Gesture Detection"
-  url = "projects/#projects-gesture"
-  parent = "Projects"
-  weight = 4
+#[[main]]
+#  name = "Activity and Gesture Detection"
+#  url = "projects/#projects-gesture"
+#  parent = "Projects"
+#  weight = 4
 
-[[main]]
-  name = "Sensor Data Analytics"
-  url = "projects/#projects-data"
-  parent = "Projects"
-  weight = 5
+#[[main]]
+#  name = "Sensor Data Analytics"
+#  url = "projects/#projects-data"
+#  parent = "Projects"
+#  weight = 5
 
 [[main]]
   name = "My Team"
   url = "team/"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Hiring"
   url = "#we_hiring"
-  weight = 70
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.

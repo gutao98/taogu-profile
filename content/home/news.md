@@ -72,6 +72,7 @@ subtitle = ""
  
 +++
 
+**05/2026:** We have two papers accepted at **ICML 2026**. Congratulations to **Yu** and **Yufei**!
 
 **01/2026:** We have one paper accepted at **ICLR 2026**. Congratulations to **Yao**!
 

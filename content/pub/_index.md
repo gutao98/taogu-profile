@@ -20,6 +20,8 @@ header:
 
 <font size=2>
 
+1.  Yu Zhang, Xi Zhang, Hualin Zhou, Xinyuan Chen, Shang Gao, Hong Jia, Jianfei Yang, Yuankai Qi, and Tao Gu. XTransfer: Modality-Agnostic Few-Shot Model Transfer for Human Sensing at the Edge, in Proc. of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 6–11 July 2026.
+1.  Yufei Chen, Yao Wang, Haibin Zhang, Hualin Zhou, and Tao Gu. From Extraction to Deduction: Resolving Functional Misalignment in RAG via a Collaborative Critic-Reasoner Framework, in Proc. of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 6–11 July 2026.
 1.  Yao Wang, An He, Xiaolong Li, Haibin Zhang, and Tao Gu. Exploiting Body-Coupled Leakage for Keystroke Inference on Smartphones, in Proc. of the 33rd ACM Conference on Computer and Communications Security (CCS 2026), Netherlands, 15–19 November 2026.
 1. Yufei Chen, Yao Wang, Haibin Zhang, and Tao Gu. Fine-Grained Privacy Extraction from Retrieval-Augmented Generation Systems by Exploiting Knowledge Asymmetry, in Proc. of the Fourteenth International Conference on Learning Representations (ICLR 2026), Rio de Janeiro, Brazil, April 23-27, 2026.
 1. Gonglong Chen, Jiacong Li, Yuxin Xu, Baiyan Ke, Zhitao Lan, Wenxing Ge, Haiying Shen, Jiamei Lv, Tao Gu, Cheng-Zhong Xu, and Kejiang Ye. Enabling Fast and Stable Service Mesh Communication via Piggyback Layer-7 Traffic Control on Programmable Switches, in Proc. of INFOCOM 2026, Tokyo, Japan, 18–21 May 2026.
