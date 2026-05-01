@@ -153,7 +153,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 <div class="col-xl-auto row">
             <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/ai.svg">
+                <img class="center" width="150" height="150" src="../../icon/robot.svg">
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
@@ -247,7 +247,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 <div class="col-xl-auto row">
             <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/lora.png">
+                <img class="center" width="150" height="150" src="../../icon/lora.svg">
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
