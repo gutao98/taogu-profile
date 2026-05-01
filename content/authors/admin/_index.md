@@ -153,7 +153,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 <div class="col-xl-auto row">
             <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="100" height="100" src="../../icon/robot.svg">
+                <img class="center" width="60" height="60" src="../../icon/robot.svg">
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
