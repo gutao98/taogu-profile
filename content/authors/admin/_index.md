@@ -107,7 +107,10 @@ user_groups:
 ---
 
 
-I am currently a Professor in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, and the Founder/Director of [Deego Technology Pty Ltd](https://deego.com.au/). I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Electrical and Electronic Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). I have served as an Editor of [*Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*](https://dl.acm.org/journal/imwut), an Associate Editor of [*IEEE Transactions on Mobile Computing (TMC)*](https://www.computer.org/csdl/journal/tm) and [*IEEE Internet of Things Journal (IoT-J)*](https://ieee-iotj.org/). I am currently serving as an Editor of [*IEEE Transactions on Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).
+I am currently a Professor in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney, and the Founder/Director of [Deego Technology Pty Ltd](https://deego.com.au/). I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Electrical and Electronic Engineering from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). 
+
+
+<!--I have served as an Editor of [*Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*](https://dl.acm.org/journal/imwut), an Associate Editor of [*IEEE Transactions on Mobile Computing (TMC)*](https://www.computer.org/csdl/journal/tm) and [*IEEE Internet of Things Journal (IoT-J)*](https://ieee-iotj.org/). I am currently serving as an Editor of [*IEEE Transactions on Wireless Communications*](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693).-->
 
 <!--The long-term goal of my research aims to discover innovative ways of sensing and connecting the physical world, and embedding AI intelligence to facilitate the building of new applications. 
 
@@ -118,9 +121,11 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 
 <!--My research aims to transform how computing systems perceive and interact with the physical world through AI-driven sensing. By developing advanced edge, embedded and embodied AI technologies, I strive to create intelligent, autonomous systems capable of understanding and responding to complex physical environments in real-time. My current research interests include Edge, Embedded, and Embodied AI, AI-driven Sensing, Mobile and Ubiquitous Computing, and Internet of Things. -->
 
+My research spans a broad range of systems areas, including mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. 
 
+<!--My research spans a broad range of systems areas, including intelligent sensing, mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI, and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. -->
 
-My research spans a broad range of systems areas, including intelligent sensing, mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI, and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. Our research is regularly published in leading systems and machine learning venues, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [UbiComp](https://ubicomp.org/ubicomp2020/), [SenSys](http://sensys.acm.org/2020/), [INFOCOM](https://infocom2020.ieee-infocom.org/), [AAAI](https://aaai.org/conference/aaai/aaai-26/), [ICLR](https://iclr.cc/), and [ICML](https://icml.cc/).
+Our research is regularly published in leading systems and machine learning venues, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [UbiComp](https://ubicomp.org/ubicomp2020/), [SenSys](http://sensys.acm.org/2020/), [INFOCOM](https://infocom2020.ieee-infocom.org/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [AAAI](https://aaai.org/conference/aaai/aaai-26/).
 
 
 
@@ -157,8 +162,9 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge, Embedded, and Embodied AI</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Foundation model, model fine-tuning, lightweight model design, VLA/multimodal LLM, robotics manipulation, planning and control.</p>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge and Embodied AI</a></h5>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">
+                    Foundation model, VLA/multimodal LLM, robotics manipulation, planning and control.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[ICML'26]</b> Yu Zhang, Xi Zhang, Hualin Zhou, Xinyuan Chen, Shang Gao, Hong Jia, Jianfei Yang, Yuankai Qi, and Tao Gu. <a href="https://arxiv.org/abs/2506.22726"> XTransfer: Modality-Agnostic Few-Shot Model Transfer for Human Sensing at the Edge </a>, in Proc. of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 6–11 July 2026. </br>
@@ -252,7 +258,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Wireless Networks</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground integrated networks, low-power wide-area networks, integration of sensing, communication and computing.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground integrated networks, integration of sensing, communication and computing.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[JSAC'25]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Jiaxi Zhou, Weicai Li, and Tao Gu. <a href=""> Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism</a>, IEEE Journal on Selected Areas in Communications (JSAC), 2025. </br>
