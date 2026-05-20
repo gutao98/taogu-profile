@@ -139,6 +139,8 @@ Our research is regularly published in leading systems and machine learning venu
 
 
 
+
+
 <!--My research foscuses on advancing intelligent sensing and AI technologies—spanning edge, embedded, and embodied systems—to create autonomous solutions that seamlessly perceive and interact with the physical world. My current research interests include Edge, Embedded, and Embodied AI, Intelligent Sensing, Mobile and Ubiquitous Computing, Wireless Networks, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.-->
 
 
