@@ -12,9 +12,9 @@ role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"colo
 
 
 # Organizations/Affiliations
-organizations:
-- name: 
-  url: 
+<!--organizations:-->
+<!--- name: -->
+<!--  url: -->
 
 <!--- name: School of Computing, Macquarie University-->
 <!--  url: "https://www.mq.edu.au/"-->
