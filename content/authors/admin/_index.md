@@ -6,13 +6,18 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">ACM Distinguished Member</span> <br/> Email: firstname dot lastname AT mq.edu.au <br/> Phone: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW 2109, Australia"
+role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">ACM Distinguished Member</span> <br/> Email: firstname dot lastname AT mq.edu.au <br/> 
+
+<!--Phone: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW 2109, Australia"-->
 
 
 # Organizations/Affiliations
 organizations:
-- name: School of Computing, Macquarie University
-  url: "https://www.mq.edu.au/"
+- name: 
+  url: 
+
+<!--- name: School of Computing, Macquarie University-->
+<!--  url: "https://www.mq.edu.au/"-->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics.
@@ -124,7 +129,9 @@ We usually publish our work in journals and conferences, including [ACM/IEEE ToN
 
 <!--My research aims to transform how computing systems perceive and interact with the physical world through AI-driven sensing. By developing advanced edge, embedded and embodied AI technologies, I strive to create intelligent, autonomous systems capable of understanding and responding to complex physical environments in real-time. My current research interests include Edge, Embedded, and Embodied AI, AI-driven Sensing, Mobile and Ubiquitous Computing, and Internet of Things. -->
 
-My research spans a broad range of systems areas, including mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. 
+My research spans a broad range of systems areas, including Internet of Things, mobile computing, ubiquitous computing, wireless networks, edge AI and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world.
+
+
 
 <!--My research spans a broad range of systems areas, including intelligent sensing, mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI, and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. -->
 
