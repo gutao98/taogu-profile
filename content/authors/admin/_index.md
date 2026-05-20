@@ -6,7 +6,9 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">ACM Distinguished Member</span> <br/> Email: firstname dot lastname AT mq.edu.au <br/> 
+role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">ACM Distinguished Member</span> <br/> Email: firstname dot lastname AT mq.edu.au <br/> "
+
+<!--Phone: +61-2-9850-4357 <br/>Address:  Room 267, 4 Research Park Drive, North Ryde, NSW 2109, Australia"-->
 
 
 # Organizations/Affiliations
@@ -14,6 +16,8 @@ organizations:
 - name: 
   url: 
 
+<!--- name: School of Computing, Macquarie University-->
+<!--  url: "https://www.mq.edu.au/"-->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Internet of Things, Ubiquitous Computing, Mobile Computing, Embedded AI, Wireless Sensor Networks, and Big Data Analytics.
