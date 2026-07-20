@@ -6,9 +6,9 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">ACM Distinguished Member</span> <br/> Email:  <br/>"
+role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">AAIS Fellow</span> <br/> Email:  <br/>"
 
-# " Phone:  <br/>  Address:   <br/> "
+# Phone:  <br/>  Address:   <br/>
 
 
 # Organizations/Affiliations
