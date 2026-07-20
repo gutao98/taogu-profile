@@ -108,6 +108,7 @@ user_groups:
 ---
 
 
+# I am leaving Macquarie University. This page will be updated soon. 
 
 I am currently a Professor in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney. I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Computer Control and Automation from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). 
 
@@ -137,10 +138,10 @@ Our research is regularly published in leading systems and machine learning venu
 
 
 
-<!--My research foscuses on advancing intelligent sensing and AI technologies—spanning edge, embedded, and embodied systems—to create autonomous solutions that seamlessly perceive and interact with the physical world. My current research interests include Edge, Embedded, and Embodied AI, Intelligent Sensing, Mobile and Ubiquitous Computing, Wireless Networks, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.-->
+<!--My research focuses on advancing intelligent sensing and AI technologies—spanning edge, embedded, and embodied systems—to create autonomous solutions that seamlessly perceive and interact with the physical world. My current research interests include Edge, Embedded, and Embodied AI, Intelligent Sensing, Mobile and Ubiquitous Computing, Wireless Networks, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.-->
 
 
-<!--The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI intelligence to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).-->
+<!--The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).-->
 
 
 
