@@ -107,8 +107,7 @@ user_groups:
 - Visitors
 ---
 
-
-I am leaving Macquarie University. This page will be updated soon. 
+I am leaving Macquarie University. This page will be updated soon.
 
 I am currently a Professor in School of Computing at [Macquarie University](https://www.mq.edu.au/), Sydney. I obtained my Ph.D. in Computer Science from [National University of Singapore](http://nus.edu.sg/), M.Sc. in Computer Control and Automation from [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx), and B.Eng. in Automatic Control from [Huazhong University of Science and Technology](http://english.hust.edu.cn/index.htm). 
 
