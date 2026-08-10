@@ -77,7 +77,7 @@ We are actively seeking outstanding and self-driven researchers who aspire to ma
 
 You will have the opportunity to work at the intersection of perception, learning, and control, contributing to the core principles that enable scalable, robust, and autonomous intelligent systems.
 
-If you are excited by ambitious research problems and wish to collaborate in a high-impact research environment, please contact me via email [tao.gu@mq.edu.au](mailto:tao.gu@mq.edu.au) with your CV.
+If you are excited by ambitious research problems and wish to collaborate in a high-impact research environment, please contact me with your CV.
 
 
 <!--# <font color=Blue> New: We are hiring multiple PhD students! </font>-->
