@@ -6,7 +6,8 @@ title: Tao Gu
 superuser: true
 
 # Role/position
-role: "<span style=\"color: #000000;\">Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">AAIS Fellow</span> <br/> Email: FirstName.LastName AT sjtu.edu.cn  <br/>"
+role: "<span style=\"color: #000000;\">Distinguished Professor</span> <br/> <span style=\"color: #000000;\">IEEE Fellow</span> <br/> <span style=\"color: #000000;\">AAIA Fellow</span> <br/><span style=\"color: #000000;\">AAIS Fellow</span> <br/> School of Computer Sicence, Shanghai Jiao Tong University
+  <br/> <br/> Address: Room 437, Building 3, SEIEE No. 800 Dongchuan Road Minhang District, Shanghai, China<br/> <br/> Email: FirstName.LastName AT sjtu.edu.cn  <br/>"
 
 # Phone:  <br/>  Address:   <br/>
 
