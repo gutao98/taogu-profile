@@ -174,7 +174,7 @@ We are hiring! Please see [Hiring](#we_hiring).
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Embodied AI</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">
-                    Multimodal Physical Intelligence， World & Action Models， Robotic Manipulation， Closed-loop Learning & Control.</p>
+                    Multimodal Physical Intelligence, World & Action Models, Robotic Manipulation, Closed-loop Learning & Control.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[ICML'26]</b> Yu Zhang, Xi Zhang, Hualin Zhou, Xinyuan Chen, Shang Gao, Hong Jia, Jianfei Yang, Yuankai Qi, and Tao Gu. <a href="https://arxiv.org/abs/2506.22726"> XTransfer: Modality-Agnostic Few-Shot Model Transfer for Human Sensing at the Edge </a>, in Proc. of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 6–11 July 2026. </br>
