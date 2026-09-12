@@ -72,6 +72,11 @@ subtitle = ""
  
 +++
 
+
+**09/2026:** **Prof. Gu** received the **UbiComp 2026 10-Year Impact Award**. Looking forward to seeing you at **UbiComp 2026** in Shanghai this October!
+
+**08/2026:** **Prof. Gu** joined **Shanghai Jiao Tong University** as a **Distinguished Professor**.
+
 **05/2026:** We have two papers accepted at **ICML 2026**. Congratulations to **Yu** and **Yufei**!
 
 **01/2026:** We have one paper accepted at **ICLR 2026**. Congratulations to **Yao**!

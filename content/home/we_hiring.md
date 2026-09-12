@@ -73,11 +73,40 @@ subtitle = ""
 
 ## <font color=Blue> Prospective Postdocs, PhD Students, and Interns! </font>
 
-We are actively seeking outstanding and self-driven researchers who aspire to make high-impact, foundational contributions to Embodied AI. Ideal candidates demonstrate a strong research track record and deep technical expertise in at least one of the following areas: **computer vision**, **machine learning**, **VLA/VLM**, **sim2real**, **control theory**, or **robotics**.
 
-You will have the opportunity to work at the intersection of perception, learning, and control, contributing to the core principles that enable scalable, robust, and autonomous intelligent systems.
+**Join Us | Embodied AI @ SJTU**
 
-If you are excited by ambitious research problems and wish to collaborate in a high-impact research environment, please contact me with your CV.
+I am recruiting postdocs, PhD students, Master’s students, and research interns to work on ambitious and foundational problems in Embodied AI.
+
+We are particularly interested in researchers with strong backgrounds in **machine learning**, **VLA/WAM**, **computer vision**, **Sim2Real**, **control theory**, and **robotics**.
+
+Our goal is to develop intelligent systems that can perceive, understand, reason about, and act in the physical world.
+
+If you are passionate about fundamental research and want to pursue high-impact research at the intersection of AI and the physical world, I welcome you to join us at Shanghai Jiao Tong University.
+
+Please send me your CV and a brief description of your research interests.
+
+
+
+**加入我们｜具身智能 @上海交通大学**
+
+现招募博士后、博士生、硕士生和科研实习生，共同探索具身智能领域具有挑战性的基础性科学问题。
+
+你需要有一项或多项背景，包括**机器学习、VLA/WAM、计算机视觉、Sim2Real、控制理论**和**机器人**。
+
+我们致力于发展能够在物理世界中感知、理解、推理并自主行动的智能系统。
+
+如果你对人工智能与物理世界交叉领域的基础研究充满热情，并希望在上海交通大学开展具有国际影响力的研究，欢迎加入我们。
+
+欢迎发送个人简历（CV）及简要的研究兴趣介绍。
+
+
+
+<!--We are actively seeking outstanding and self-driven researchers who aspire to make high-impact, foundational contributions to Embodied AI. Ideal candidates demonstrate a strong research track record and deep technical expertise in at least one of the following areas: **computer vision**, **machine learning**, **VLA/VLM**, **sim2real**, **control theory**, or **robotics**.-->
+<!---->
+<!--You will have the opportunity to work at the intersection of perception, learning, and control, contributing to the core principles that enable scalable, robust, and autonomous intelligent systems.-->
+<!---->
+<!--If you are excited by ambitious research problems and wish to collaborate in a high-impact research environment, please contact me with your CV.-->
 
 
 <!--# <font color=Blue> New: We are hiring multiple PhD students! </font>-->
