@@ -130,9 +130,10 @@ My research spans a broad range of systems areas, including Internet of Things, 
 
 
 
+
 <!--My research spans a broad range of systems areas, including intelligent sensing, mobile and ubiquitous computing, wireless networks, the Internet of Things, edge AI, and embodied AI. In recent years, my work has increasingly centered on embodied intelligence and robotics—systems that seamlessly perceive, reason, and interact with the physical world. -->
 
-Our research is regularly published in leading systems and machine learning venues, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [UbiComp](https://ubicomp.org/ubicomp2020/), [SenSys](http://sensys.acm.org/2020/), [INFOCOM](https://infocom2020.ieee-infocom.org/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [AAAI](https://aaai.org/conference/aaai/aaai-26/).
+<!--Our research is regularly published in leading systems and machine learning venues, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [UbiComp](https://ubicomp.org/ubicomp2020/), [SenSys](http://sensys.acm.org/2020/), [INFOCOM](https://infocom2020.ieee-infocom.org/), [ICML](https://icml.cc/), [ICLR](https://iclr.cc/), and [AAAI](https://aaai.org/conference/aaai/aaai-26/).-->
 
 
 
@@ -141,11 +142,11 @@ Our research is regularly published in leading systems and machine learning venu
 <!--My research focuses on advancing intelligent sensing and AI technologies—spanning edge, embedded, and embodied systems—to create autonomous solutions that seamlessly perceive and interact with the physical world. My current research interests include Edge, Embedded, and Embodied AI, Intelligent Sensing, Mobile and Ubiquitous Computing, Wireless Networks, and Internet of Things. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/). Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing.-->
 
 
-<!--The long-term goal of my research aims to discover innovative ways of connecting and sensing the physical world, and embedding AI to facilitate the development of new computing systems and applications. My current research interests include Internet of Things, Mobile Computing, Ubiquitous Computing, Wireless Sensing, Wireless Communication, Edge AI, and Embodied AI. Please visit the [Projects](projects/#projects-sensor) page for the specific research we are doing. We usually publish our work in journals and conferences, including [MobiCom](https://www.sigmobile.org/mobicom/2022/), [MobiSys](https://www.sigmobile.org/mobisys/2023/), [SenSys](http://sensys.acm.org/2020/), [UbiComp](https://ubicomp.org/ubicomp2020/), [IPSN](https://ipsn.acm.org/2020/), and [INFOCOM](https://infocom2020.ieee-infocom.org/).-->
 
+We are hiring! Please see [Hiring](#we_hiring).
 
+我们正在招募博士后、博士生、硕士生和科研实习生！详情请见[招生信息](#we_hiring).
 
-We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
 
 
 # Research Projects
@@ -171,9 +172,9 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             </div>
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Edge and Embodied AI</a></h5>
+                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Embodied AI</a></h5>
                     <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">
-                    Foundation model, VLA/multimodal LLM, robotics manipulation, planning and control.</p>
+                    Multimodal Physical Intelligence， World & Action Models， Robotic Manipulation， Closed-loop Learning & Control.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[ICML'26]</b> Yu Zhang, Xi Zhang, Hualin Zhou, Xinyuan Chen, Shang Gao, Hong Jia, Jianfei Yang, Yuankai Qi, and Tao Gu. <a href="https://arxiv.org/abs/2506.22726"> XTransfer: Modality-Agnostic Few-Shot Model Transfer for Human Sensing at the Edge </a>, in Proc. of the 43rd International Conference on Machine Learning (ICML 2026), Seoul, South Korea, 6–11 July 2026. </br>
@@ -199,7 +200,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Intelligent Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New sensors, multi-modal sensing, sensor fusion, and AI-powered sensing systems.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New Sensors, Multi-modal Sensing, Sensor Fusion, and AI-powered Sensing Systems.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[MobiCom'25]</b> Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. <a href=""> SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, November 4–8, 2025. </br>
@@ -267,7 +268,7 @@ We are hiring multiple PhD students! Please see [Hiring](#we_hiring).
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Wireless Networks</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground integrated networks, integration of sensing, communication and computing.</p>
+                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground Integrated Networks, Integration of Sensing, Communication and Computing.</p>
                 </div>
               <p style="font-size:14pt">
                 <b>[JSAC'25]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Jiaxi Zhou, Weicai Li, and Tao Gu. <a href=""> Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism</a>, IEEE Journal on Selected Areas in Communications (JSAC), 2025. </br>
