@@ -144,9 +144,16 @@ My research spans a broad range of systems areas, including Internet of Things, 
 
 
 
-We are hiring! Please see [Hiring](#we_hiring).
+<!--We are hiring! Please see [Hiring](#we_hiring).-->
+<!---->
+<!--我们正在招募博士后、博士生、硕士生和科研实习生！详情请见[招生信息](#we_hiring).-->
 
-我们正在招募博士后、博士生、硕士生和科研实习生！详情请见[招生信息](#we_hiring).
+
+**上海交通大学 • 计算机学院 • 具身智能研究所 ｜ 诚聘英才**
+
+依托上海交通大学计算机学院，我们正在组建具身智能研究所，致力推动人工智能真正走向物理世界——具备感知、理解、决策、自主作业与持续学习的能力。现诚邀全球优秀青年学者加入，欢迎海外青年人才依托本研究所申报2027年国家级人才项目。同时，我们常年招收博士后、博士生（直博、联培）、硕士生及实习生。我们尤其欢迎具备以下一项或多项背景的申请者：**机器学习、VLA/WAM、Sim2Real、机器人、控制理论**。
+
+如果你对人工智能与物理世界交叉领域的研究充满热情，并希望在上海交通大学开展具有国际影响力的研究，欢迎加入我们。请发送个人简历及简要的研究兴趣介绍。
 
 
 
@@ -168,9 +175,9 @@ We are hiring! Please see [Hiring](#we_hiring).
 
 
 <div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="80" height="80" src="../../icon/robot.svg">
-            </div>
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="80" height="80" src="../../icon/robot.svg">-->
+<!--            </div>-->
             <div class="col-xl-10">
                 <div style="background-color:#1A2B3D;">
                     <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-mdl" style="color:#32B7D5">Embodied AI</a></h5>
@@ -194,24 +201,24 @@ We are hiring! Please see [Hiring](#we_hiring).
 
 
 
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/sensing.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Intelligent Sensing</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New Sensors, Multi-modal Sensing, Sensor Fusion, and AI-powered Sensing Systems.</p>
-                </div>
-              <p style="font-size:14pt">
-                <b>[MobiCom'25]</b> Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. <a href=""> SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, November 4–8, 2025. </br>
-                <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>
-                <b>[MobiCom'23]</b> Xi Zhang*, Yu Zhang*, Zhenguo Shi, and Tao Gu. <a href="">mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications</a>, in Proc. of the 29th International Conference on Mobile Computing and Networking (MobiCom 2023), Madrid, Spain, October 2-6, 2023. (* Equal Contribution)</br>   
-                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>
-<!--                <b>[MobiCom'22]</b> Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. <a href="pub/paper/Device_Pairing.pdf"> Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response</a>, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022. <b><a href="https://www.youtube.com/watch?v=Jt-X4lAZSbk"> [Demo Video]</a></b> </br>-->
-              </p>
-            </div>
-</div>
+<!--<div class="col-xl-auto row">-->
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="150" height="150" src="../../icon/sensing.svg">-->
+<!--            </div>-->
+<!--            <div class="col-xl-10">-->
+<!--                <div style="background-color:#1A2B3D;">-->
+<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects/#projects-indoor" style="color:#32B7D5">Intelligent Sensing</a></h5>-->
+<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">New Sensors, Multi-modal Sensing, Sensor Fusion, and AI-powered Sensing Systems.</p>-->
+<!--                </div>-->
+<!--              <p style="font-size:14pt">-->
+<!--                <b>[MobiCom'25]</b> Zehua Sun, Tao Ni, Pengfei Hu, Tao Gu, and Weitao Xu. <a href=""> SpaceSched: A Constellation-Wide Scheduling System for Resolving Ground Track Congestion in Remote Sensing</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, November 4–8, 2025. </br>-->
+<!--                <b>[UbiComp'24]</b> Lei Wang, Xingwei Wang, Yu Zhang, Xiaolei Ma, Haipeng Dai, Yong Zhang, Zhijun Li, and Tao Gu. <a href=""> Accurate Blood Pressure Measurement Using Smartphone’s Built-in Accelerometer</a>, the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2024. </br>-->
+<!--                <b>[MobiCom'23]</b> Xi Zhang*, Yu Zhang*, Zhenguo Shi, and Tao Gu. <a href="">mmFER: Millimetre-wave Radar based Facial Expression Recognition for Multimedia IoT Applications</a>, in Proc. of the 29th International Conference on Mobile Computing and Networking (MobiCom 2023), Madrid, Spain, October 2-6, 2023. (* Equal Contribution)</br>   -->
+<!--                <b>[MobiSys'23]</b> Lei Wang, Tao Gu, Wei Li, Haipeng Dai, Yong Zhang, Dongxiao Yu, Chenren Xu, and Daqing Zhang. <a href=""> DFSense: Dual Forming based Multi-user Acoustic Sensing for Heartbeat Monitoring </a>, in Proc. of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2023), Helsinki, Finland, June 18-22, 2023. </br>-->
+<!--<!--                <b>[MobiCom'22]</b> Yao Wang, Tao Gu, Yu Zhang, Minjie Lyu, Tom H. Luan, and Hui Li. <a href="pub/paper/Device_Pairing.pdf"> Enabling Secure Touch-to-Access Device Pairing based on Human Body's Electrical Response</a>, in Proc. of the 28th International Conference on Mobile Computing and Neworking (MobiCom 2022), Sydney, Australia, October 17-21, 2022. <b><a href="https://www.youtube.com/watch?v=Jt-X4lAZSbk"> [Demo Video]</a></b> </br>-->-->
+<!--              </p>-->
+<!--            </div>-->
+<!--</div>-->
 
 
 
@@ -262,27 +269,27 @@ We are hiring! Please see [Hiring](#we_hiring).
 
 
 
-<div class="col-xl-auto row">
-            <div class="col-xl-2" style="margin-top:20px">
-                <img class="center" width="150" height="150" src="../../icon/lora.svg">
-            </div>
-            <div class="col-xl-10">
-                <div style="background-color:#1A2B3D;">
-                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Wireless Networks</a></h5>
-                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground Integrated Networks, Integration of Sensing, Communication and Computing.</p>
-                </div>
-              <p style="font-size:14pt">
-                <b>[JSAC'25]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Jiaxi Zhou, Weicai Li, and Tao Gu. <a href=""> Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism</a>, IEEE Journal on Selected Areas in Communications (JSAC), 2025. </br>
-                <b>[MobiCom'25]</b> Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. <a href="">From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025. </br>
-                <b>[MobiCom'24]</b> Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. <a href=""> Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</a>, in Proc. of the 30th International Conference On Mobile Computing And Networking (MobiCom 2024), Washington, D.C., USA, September 30 - October 4, 2024. </br>
-                <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. <a href="">Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems</a>, IEEE Transactions on Wireless Communication, 2024. </br>
-<!--                <b>[IPSN'23]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks</a>, in Proc. of the 22nd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2023), San Antonio, Texas, May 9-12, 2023. </br>-->
-<!--                <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>-->
-<!--                <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>-->
-<!--                <b>[INFOCOM'20]</b> Xianjin Xia, Yuanqing Zheng, and Tao Gu. <a href="pub/paper/LiteNap.pdf"> LiteNap: Downclocking LoRa Reception</a>, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. </br>-->
-              </p>
-            </div>
-</div>
+<!--<div class="col-xl-auto row">-->
+<!--            <div class="col-xl-2" style="margin-top:20px">-->
+<!--                <img class="center" width="150" height="150" src="../../icon/lora.svg">-->
+<!--            </div>-->
+<!--            <div class="col-xl-10">-->
+<!--                <div style="background-color:#1A2B3D;">-->
+<!--                    <h5 style="font-size:20pt;padding-left:10px;padding-top:10px"><a href="projects/#projects-sensor" style="color:#32B7D5">Wireless Networks</a></h5>-->
+<!--                    <p style="font-size:15pt;color:white;padding-left:10px;padding-bottom:10px">Space-air-ground Integrated Networks, Integration of Sensing, Communication and Computing.</p>-->
+<!--                </div>-->
+<!--              <p style="font-size:14pt">-->
+<!--                <b>[JSAC'25]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Jiaxi Zhou, Weicai Li, and Tao Gu. <a href=""> Subspace-Based Super-Resolution Sensing for Bi-Static ISAC with Clock Asynchronism</a>, IEEE Journal on Selected Areas in Communications (JSAC), 2025. </br>-->
+<!--                <b>[MobiCom'25]</b> Ruonan Li, Ziyue Zhang, Xianjin Xia, Ningning Hou, Wenchang Chai, Shiming Yu, Yuanqing Zheng, and Tao Gu. <a href="">From Interference Mitigation to Toleration: Pathway to Practical Spatial Reuse in LPWANs</a>, in Proc. of the 31st International Conference on Mobile Computing and Networking (MobiCom 2025), Hong Kong, Nov 2025. </br>-->
+<!--                <b>[MobiCom'24]</b> Shiming Yu, Xianjin Xia, Ningning Hou, Yuanging Zheng, and Tao Gu. <a href=""> Revolutionizing Loa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels</a>, in Proc. of the 30th International Conference On Mobile Computing And Networking (MobiCom 2024), Washington, D.C., USA, September 30 - October 4, 2024. </br>-->
+<!--                <b>[TWC'24]</b> Jingbo Zhao, Zhaoming Lu, J. Andrew Zhang, Weicai Li, Yifeng Xiong, Zijun Han, Xiangming Wen, and Tao Gu. <a href="">Performance Bounds for Passive Wireless Sensing in Asynchronous ISAC Systems</a>, IEEE Transactions on Wireless Communication, 2024. </br>-->
+<!--<!--                <b>[IPSN'23]</b> Zehua Sun, Tao Ni, Huanqi Yang, Kai Liu, Yu Zhang, Tao Gu, and Weitao Xu. <a href=""> FLoRa: Energy-Efficient, Reliable, and Beamforming-Assisted Over-The-Air Firmware Update in LoRa Networks</a>, in Proc. of the 22nd ACM/IEEE Conference on Information Processing in Sensor Networks (IPSN 2023), San Antonio, Texas, May 9-12, 2023. </br>-->-->
+<!--<!--                <b>[INFOCOM'23]</b> Huanqi Yang, Zehua Sun, Hongbo Liu, Xianjin Xia, Yu Zhang, Tao Gu, Gerhard Hancke, and Weitao Xu. <a href=""> ChirpKey: A Chirp-level Information-based Key Generation Scheme for LoRa Networks via Perturbed Compressed Sensing</a>, in Proc. of IEEE INFOCOM 2023, New York area, USA, May 17-20, 2023.  </br>-->-->
+<!--<!--                <b>[MobiCom'21]</b> Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu. <a href=""> PCube: Scaling LoRa Concurrent Transmissions with Reception Diversities</a>,in Proc. of the 27th International Conference on Mobile Computing and Neworking (MobiCom 2021), October 25-29, 2021. </br>-->-->
+<!--<!--                <b>[INFOCOM'20]</b> Xianjin Xia, Yuanqing Zheng, and Tao Gu. <a href="pub/paper/LiteNap.pdf"> LiteNap: Downclocking LoRa Reception</a>, in Proc. of IEEE INFOCOM 2020, Toronto, Canada, July 6-9, 2020. </br>-->-->
+<!--              </p>-->
+<!--            </div>-->
+<!--</div>-->
 
 
 
