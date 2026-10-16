@@ -73,7 +73,7 @@ subtitle = ""
 +++
 
 
-**09/2026:** **Prof. Gu** received the **UbiComp 2026 10-Year Impact Award**. Looking forward to seeing you at **UbiComp 2026** in Shanghai this October!
+**10/2026:** **Prof. Gu** received **two prestigous awards** at **UbiComp 2026** in Shanghai: **10-Year Impact Award** and **Distinguished Paper Award**.
 
 **08/2026:** **Prof. Gu** joined **Shanghai Jiao Tong University** as a **Distinguished Professor**.
 
